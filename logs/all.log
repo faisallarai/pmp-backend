@@ -1,0 +1,2770 @@
+2022-08-10 16:23:18:2318 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 22:36:29:3629 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 22:37:32:3732 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 22:51:31:5131 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 22:51:54:5154 [35mhttp[39m: [35mPOST /api/v1/voters 400 495 - 19.183 ms application/json[39m
+[35m[39m
+2022-08-10 22:52:00:520 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 1.551 ms application/json[39m
+[35m[39m
+2022-08-10 22:55:04:554 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 0.734 ms application/json[39m
+[35m[39m
+2022-08-10 22:56:03:563 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 0.707 ms application/json[39m
+[35m[39m
+2022-08-10 22:56:14:5614 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 0.669 ms application/json[39m
+[35m[39m
+2022-08-10 22:56:39:5639 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 0.695 ms application/json[39m
+[35m[39m
+2022-08-10 22:56:51:5651 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 1.875 ms application/json[39m
+[35m[39m
+2022-08-10 22:57:22:5722 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 0.709 ms application/json[39m
+[35m[39m
+2022-08-10 22:58:27:5827 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 22:58:28:5828 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 18.033 ms application/json[39m
+[35m[39m
+2022-08-10 22:58:58:5858 [35mhttp[39m: [35mGET /api/v1/voters 500 37 - 1.313 ms application/json[39m
+[35m[39m
+2022-08-10 22:59:09:599 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 22:59:11:5911 [35mhttp[39m: [35mGET /api/v1/voters 500 71 - 17.174 ms application/json[39m
+[35m[39m
+2022-08-10 22:59:48:5948 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 22:59:50:5950 [35mhttp[39m: [35mGET /api/v1/voters 200 26 - 112.240 ms application/json[39m
+[35m[39m
+2022-08-10 22:59:55:5955 [35mhttp[39m: [35mGET /api/v1/voters 200 26 - 3.877 ms application/json[39m
+[35m[39m
+2022-08-10 22:59:56:5956 [35mhttp[39m: [35mGET /api/v1/voters 200 26 - 3.381 ms application/json[39m
+[35m[39m
+2022-08-10 23:00:25:025 [35mhttp[39m: [35mGET /api/v1/voters 200 26 - 6.072 ms application/json[39m
+[35m[39m
+2022-08-10 23:00:34:034 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 23:00:35:035 [35mhttp[39m: [35mGET /api/v1/voters 500 71 - 17.346 ms application/json[39m
+[35m[39m
+2022-08-10 23:00:37:037 [35mhttp[39m: [35mGET /api/v1/voters 500 71 - 1.024 ms application/json[39m
+[35m[39m
+2022-08-10 23:00:58:058 [35mhttp[39m: [35mGET /api/v1/voters 500 71 - 1.007 ms application/json[39m
+[35m[39m
+2022-08-10 23:01:05:15 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 23:01:07:17 [35mhttp[39m: [35mGET /api/v1/voters 200 6627 - 97.089 ms application/json[39m
+[35m[39m
+2022-08-10 23:01:54:154 [35mhttp[39m: [35mGET /api/v1/voters 200 6627 - 26.713 ms application/json[39m
+[35m[39m
+2022-08-10 23:04:45:445 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-10 23:05:13:513 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 12:04:55:455 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 12:05:18:518 [35mhttp[39m: [35mPOST /api/v1/voters 201 336 - 116.677 ms application/json[39m
+[35m[39m
+2022-08-11 12:15:23:1523 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 12:15:44:1544 [35mhttp[39m: [35mPOST /api/v1/voters/1395002064 400 437 - 95.002 ms application/json[39m
+[35m[39m
+2022-08-11 12:16:30:1630 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 13:47:56:4756 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 13:47:58:4758 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1057 - 84.530 ms application/json[39m
+[35m[39m
+2022-08-11 13:48:38:4838 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 776 - 10.454 ms application/json[39m
+[35m[39m
+2022-08-11 13:48:40:4840 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 776 - 7.148 ms application/json[39m
+[35m[39m
+2022-08-11 13:48:51:4851 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 13:48:52:4852 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 150 - 81.753 ms application/json[39m
+[35m[39m
+2022-08-11 14:49:02:492 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 14:49:09:499 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1053 - 153.696 ms application/json[39m
+[35m[39m
+2022-08-11 14:50:05:505 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1053 - 10.586 ms application/json[39m
+[35m[39m
+2022-08-11 14:50:23:5023 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 14:50:25:5025 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1053 - 76.396 ms application/json[39m
+[35m[39m
+2022-08-11 14:52:10:5210 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1053 - 10.412 ms application/json[39m
+[35m[39m
+2022-08-11 14:52:11:5211 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1053 - 7.508 ms application/json[39m
+[35m[39m
+2022-08-11 14:52:18:5218 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 14:52:20:5220 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1053 - 67.386 ms application/json[39m
+[35m[39m
+2022-08-11 14:52:39:5239 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 1053 - 10.953 ms application/json[39m
+[35m[39m
+2022-08-11 14:54:38:5438 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-11 14:54:40:5440 [35mhttp[39m: [35mDELETE /api/v1/voters/139500206 500 150 - 116.689 ms application/json[39m
+[35m[39m
+2022-08-14 21:15:28:1528 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:25:11:2511 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:25:21:2521 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 3.936 ms application/json[39m
+[35m[39m
+2022-08-14 21:26:40:2640 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.598 ms application/json[39m
+[35m[39m
+2022-08-14 21:27:39:2739 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.537 ms application/json[39m
+[35m[39m
+2022-08-14 21:28:51:2851 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.406 ms application/json[39m
+[35m[39m
+2022-08-14 21:31:13:3113 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.454 ms application/json[39m
+[35m[39m
+2022-08-14 21:31:47:3147 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.413 ms application/json[39m
+[35m[39m
+2022-08-14 21:34:32:3432 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 15.725 ms application/json[39m
+[35m[39m
+2022-08-14 21:35:00:350 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.366 ms application/json[39m
+[35m[39m
+2022-08-14 21:36:26:3626 [35mhttp[39m: [35mDELETE /api/v1/voters 404 155 - 63.146 ms application/json[39m
+[35m[39m
+2022-08-14 21:36:35:3635 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.876 ms application/json[39m
+[35m[39m
+2022-08-14 21:41:39:4139 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:42:03:423 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:42:06:426 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 2.915 ms application/json[39m
+[35m[39m
+2022-08-14 21:42:20:4220 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 0.472 ms application/json[39m
+[35m[39m
+2022-08-14 21:42:47:4247 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:42:48:4248 [32minfo[39m: [32msingle insert[39m
+2022-08-14 21:42:48:4248 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 3.200 ms application/json[39m
+[35m[39m
+2022-08-14 21:43:14:4314 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:43:20:4320 [32minfo[39m: [32msingle insert[39m
+2022-08-14 21:43:20:4320 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 3.068 ms application/json[39m
+[35m[39m
+2022-08-14 21:45:40:4540 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:45:42:4542 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 3.825 ms application/json[39m
+[35m[39m
+2022-08-14 21:46:32:4632 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:46:39:4639 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:46:40:4640 [35mhttp[39m: [35mPOST /api/v1/voters 400 130 - 3.362 ms application/json[39m
+[35m[39m
+2022-08-14 21:47:05:475 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 21:47:05:475 [35mhttp[39m: [35mPOST /api/v1/voters 400 118 - 3.916 ms application/json[39m
+[35m[39m
+2022-08-14 22:08:36:836 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 22:08:37:837 [35mhttp[39m: [35mPOST /api/v1/voters 400 118 - 3.601 ms application/json[39m
+[35m[39m
+2022-08-14 22:19:17:1917 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 22:19:20:1920 [35mhttp[39m: [35mPOST /api/v1/voters 400 118 - 3.478 ms application/json[39m
+[35m[39m
+2022-08-14 22:19:23:1923 [35mhttp[39m: [35mPOST /api/v1/voters 400 118 - 0.626 ms application/json[39m
+[35m[39m
+2022-08-14 22:22:11:2211 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 22:24:09:249 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 22:24:14:2414 [35mhttp[39m: [35mPOST /api/v1/voters 201 35223 - 206.332 ms application/json[39m
+[35m[39m
+2022-08-14 22:26:00:260 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 22:26:00:260 [35mhttp[39m: [35mPOST /api/v1/voters 201 35223 - 197.138 ms application/json[39m
+[35m[39m
+2022-08-14 22:26:25:2625 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 85.498 ms application/json[39m
+[35m[39m
+2022-08-14 22:26:55:2655 [35mhttp[39m: [35mPOST /api/v1/voters 201 35223 - 58.398 ms application/json[39m
+[35m[39m
+2022-08-14 22:29:10:2910 [35mhttp[39m: [35mPOST /api/v1/voters 400 506 - 655.114 ms application/json[39m
+[35m[39m
+2022-08-14 22:44:21:4421 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 68.998 ms application/json[39m
+[35m[39m
+2022-08-14 22:44:47:4447 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 42.430 ms application/json[39m
+[35m[39m
+2022-08-14 22:47:37:4737 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 37.465 ms application/json[39m
+[35m[39m
+2022-08-14 22:48:04:484 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 43.030 ms application/json[39m
+[35m[39m
+2022-08-14 22:50:56:5056 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 43.134 ms application/json[39m
+[35m[39m
+2022-08-14 22:51:39:5139 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 45.172 ms application/json[39m
+[35m[39m
+2022-08-14 22:52:22:5222 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 49.494 ms application/json[39m
+[35m[39m
+2022-08-14 22:59:28:5928 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 64.546 ms application/json[39m
+[35m[39m
+2022-08-14 23:00:07:07 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 45.077 ms application/json[39m
+[35m[39m
+2022-08-14 23:04:58:458 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 40.193 ms application/json[39m
+[35m[39m
+2022-08-14 23:06:32:632 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 40.179 ms application/json[39m
+[35m[39m
+2022-08-14 23:13:16:1316 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:14:54:1454 [35mhttp[39m: [35mPOST /api/v1/voters 400 506 - 607.535 ms application/json[39m
+[35m[39m
+2022-08-14 23:32:56:3256 [35mhttp[39m: [35mPOST /api/v1/pollingStations 404 162 - 0.746 ms application/json[39m
+[35m[39m
+2022-08-14 23:32:56:3256 [35mhttp[39m: [35mPOST /api/v1/constituencies 404 161 - 0.203 ms application/json[39m
+[35m[39m
+2022-08-14 23:32:56:3256 [35mhttp[39m: [35mPOST /api/v1/regions 404 154 - 0.113 ms application/json[39m
+[35m[39m
+2022-08-14 23:32:56:3256 [35mhttp[39m: [35mPOST /api/v1/voters 400 506 - 425.573 ms application/json[39m
+[35m[39m
+2022-08-14 23:34:28:3428 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:34:39:3439 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:35:02:352 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:35:14:3514 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:35:59:3559 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:37:55:3755 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:40:26:4026 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:41:01:411 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:41:15:4115 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:41:50:4150 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:42:09:429 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:42:46:4246 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:43:31:4331 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:44:20:4420 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:44:58:4458 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:45:45:4545 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:46:43:4643 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:47:06:476 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:48:20:4820 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:52:50:5250 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:52:56:5256 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:53:15:5315 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:53:29:5329 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:54:06:546 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:54:30:5430 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:55:00:550 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:55:38:5538 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:56:17:5617 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:56:46:5646 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:57:24:5724 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:58:16:5816 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:58:22:5822 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:58:38:5838 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:58:46:5846 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:58:53:5853 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:59:09:599 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-14 23:59:46:5946 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:00:27:027 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:03:34:334 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:03:46:346 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:04:27:427 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:05:16:516 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:06:10:610 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:06:17:617 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:07:12:712 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:07:31:731 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:07:35:735 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:07:40:740 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:08:01:81 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:09:20:920 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:10:56:1056 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:12:19:1219 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:13:39:1339 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:14:27:1427 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:15:06:156 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:15:22:1522 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:17:09:179 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:17:20:1720 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:17:36:1736 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:18:34:1834 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:18:47:1847 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:19:04:194 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:19:58:1958 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:20:15:2015 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:20:19:2019 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:20:29:2029 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:20:43:2043 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:22:10:2210 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:25:21:2521 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:26:04:264 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 149 - 4.949 ms application/json[39m
+[35m[39m
+2022-08-15 00:26:04:264 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 144 - 1.513 ms application/json[39m
+[35m[39m
+2022-08-15 00:26:04:264 [35mhttp[39m: [35mPOST /api/v1/regions 400 132 - 1.039 ms application/json[39m
+[35m[39m
+2022-08-15 00:26:04:264 [35mhttp[39m: [35mPOST /api/v1/voters 400 506 - 482.708 ms application/json[39m
+[35m[39m
+2022-08-15 00:29:40:2940 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 149 - 0.639 ms application/json[39m
+[35m[39m
+2022-08-15 00:29:40:2940 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 144 - 0.979 ms application/json[39m
+[35m[39m
+2022-08-15 00:29:40:2940 [35mhttp[39m: [35mPOST /api/v1/regions 400 132 - 1.048 ms application/json[39m
+[35m[39m
+2022-08-15 00:29:40:2940 [35mhttp[39m: [35mPOST /api/v1/countries 400 133 - 1.063 ms application/json[39m
+[35m[39m
+2022-08-15 00:29:40:2940 [35mhttp[39m: [35mPOST /api/v1/voters 400 506 - 413.615 ms application/json[39m
+[35m[39m
+2022-08-15 00:30:36:3036 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:31:59:3159 [35mhttp[39m: [35mPOST /api/v1/countries 400 133 - 5.147 ms application/json[39m
+[35m[39m
+2022-08-15 00:31:59:3159 [35mhttp[39m: [35mPOST /api/v1/regions 400 132 - 1.269 ms application/json[39m
+[35m[39m
+2022-08-15 00:31:59:3159 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 144 - 1.224 ms application/json[39m
+[35m[39m
+2022-08-15 00:31:59:3159 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 149 - 1.309 ms application/json[39m
+[35m[39m
+2022-08-15 00:31:59:3159 [35mhttp[39m: [35mPOST /api/v1/voters 400 506 - 475.753 ms application/json[39m
+[35m[39m
+2022-08-15 00:34:16:3416 [35mhttp[39m: [35mPOST /api/v1/countries 400 133 - 0.734 ms application/json[39m
+[35m[39m
+2022-08-15 00:34:16:3416 [35mhttp[39m: [35mPOST /api/v1/regions 400 132 - 0.573 ms application/json[39m
+[35m[39m
+2022-08-15 00:34:16:3416 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 144 - 0.524 ms application/json[39m
+[35m[39m
+2022-08-15 00:34:16:3416 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 149 - 0.639 ms application/json[39m
+[35m[39m
+2022-08-15 00:34:17:3417 [35mhttp[39m: [35mPOST /api/v1/voters 400 506 - 409.958 ms application/json[39m
+[35m[39m
+2022-08-15 00:35:08:358 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:44:23:4423 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 00:49:46:4946 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 92.308 ms application/json[39m
+[35m[39m
+2022-08-15 00:49:46:4946 [35mhttp[39m: [35mPOST /api/v1/regions 400 135 - 1.480 ms application/json[39m
+[35m[39m
+2022-08-15 00:49:46:4946 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 141 - 1.239 ms application/json[39m
+[35m[39m
+2022-08-15 00:49:46:4946 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 143 - 1.290 ms application/json[39m
+[35m[39m
+2022-08-15 00:49:46:4946 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 114.496 ms application/json[39m
+[35m[39m
+2022-08-15 00:50:56:5056 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 7.795 ms application/json[39m
+[35m[39m
+2022-08-15 00:50:56:5056 [35mhttp[39m: [35mPOST /api/v1/regions 400 135 - 0.481 ms application/json[39m
+[35m[39m
+2022-08-15 00:50:56:5056 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 141 - 0.486 ms application/json[39m
+[35m[39m
+2022-08-15 00:50:56:5056 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 143 - 0.576 ms application/json[39m
+[35m[39m
+2022-08-15 00:50:56:5056 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 46.538 ms application/json[39m
+[35m[39m
+2022-08-15 00:51:41:5141 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 7.842 ms application/json[39m
+[35m[39m
+2022-08-15 00:51:41:5141 [35mhttp[39m: [35mPOST /api/v1/regions 400 135 - 0.425 ms application/json[39m
+[35m[39m
+2022-08-15 00:51:41:5141 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 141 - 0.457 ms application/json[39m
+[35m[39m
+2022-08-15 00:51:41:5141 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 143 - 0.472 ms application/json[39m
+[35m[39m
+2022-08-15 00:51:41:5141 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 40.106 ms application/json[39m
+[35m[39m
+2022-08-15 00:52:38:5238 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 8.365 ms application/json[39m
+[35m[39m
+2022-08-15 00:52:38:5238 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.465 ms application/json[39m
+[35m[39m
+2022-08-15 00:52:38:5238 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 137 - 0.474 ms application/json[39m
+[35m[39m
+2022-08-15 00:52:38:5238 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 139 - 0.508 ms application/json[39m
+[35m[39m
+2022-08-15 00:52:38:5238 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 53.689 ms application/json[39m
+[35m[39m
+2022-08-15 00:58:25:5825 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 17.225 ms application/json[39m
+[35m[39m
+2022-08-15 00:58:25:5825 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.540 ms application/json[39m
+[35m[39m
+2022-08-15 00:58:25:5825 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 137 - 0.493 ms application/json[39m
+[35m[39m
+2022-08-15 00:58:25:5825 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 139 - 0.504 ms application/json[39m
+[35m[39m
+2022-08-15 00:58:25:5825 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 66.383 ms application/json[39m
+[35m[39m
+2022-08-15 00:58:49:5849 [35mhttp[39m: [35mPOST /api/v1/regions 400 120 - 1.177 ms application/json[39m
+[35m[39m
+2022-08-15 00:59:31:5931 [35mhttp[39m: [35mPOST /api/v1/regions 400 120 - 0.491 ms application/json[39m
+[35m[39m
+2022-08-15 01:06:28:628 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:10:00:100 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:14:18:1418 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:14:49:1449 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:15:05:155 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:15:30:1530 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:15:33:1533 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 2.985 ms application/json[39m
+[35m[39m
+2022-08-15 01:18:28:1828 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.554 ms application/json[39m
+[35m[39m
+2022-08-15 01:19:44:1944 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:19:48:1948 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 2.683 ms application/json[39m
+[35m[39m
+2022-08-15 01:20:57:2057 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.633 ms application/json[39m
+[35m[39m
+2022-08-15 01:21:20:2120 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:21:22:2122 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 2.901 ms application/json[39m
+[35m[39m
+2022-08-15 01:21:50:2150 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:21:52:2152 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 2.624 ms application/json[39m
+[35m[39m
+2022-08-15 01:21:54:2154 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.679 ms application/json[39m
+[35m[39m
+2022-08-15 01:23:25:2325 [35mhttp[39m: [35mPOST /api/v1/regions 201 188 - 138.874 ms application/json[39m
+[35m[39m
+2022-08-15 01:23:37:2337 [35mhttp[39m: [35mPOST /api/v1/regions 201 188 - 7.205 ms application/json[39m
+[35m[39m
+2022-08-15 01:23:54:2354 [35mhttp[39m: [35mPOST /api/v1/regions 201 190 - 11.810 ms application/json[39m
+[35m[39m
+2022-08-15 01:24:22:2422 [35mhttp[39m: [35mPOST /api/v1/regions 201 190 - 8.986 ms application/json[39m
+[35m[39m
+2022-08-15 01:24:47:2447 [35mhttp[39m: [35mGET /api/v1/regions 500 47 - 12.207 ms application/json[39m
+[35m[39m
+2022-08-15 01:25:25:2525 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:25:27:2527 [35mhttp[39m: [35mGET /api/v1/regions 500 47 - 75.672 ms application/json[39m
+[35m[39m
+2022-08-15 01:25:32:2532 [35mhttp[39m: [35mPOST /api/v1/regions 201 190 - 9.582 ms application/json[39m
+[35m[39m
+2022-08-15 01:25:49:2549 [35mhttp[39m: [35mPOST /api/v1/regions 400 121 - 0.727 ms application/json[39m
+[35m[39m
+2022-08-15 01:26:07:267 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.376 ms application/json[39m
+[35m[39m
+2022-08-15 01:26:16:2616 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.336 ms application/json[39m
+[35m[39m
+2022-08-15 01:26:27:2627 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.354 ms application/json[39m
+[35m[39m
+2022-08-15 01:26:31:2631 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.357 ms application/json[39m
+[35m[39m
+2022-08-15 01:26:38:2638 [35mhttp[39m: [35mPOST /api/v1/regions 201 190 - 10.438 ms application/json[39m
+[35m[39m
+2022-08-15 01:29:50:2950 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:32:44:3244 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:35:01:351 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:35:04:354 [35mhttp[39m: [35mPOST /api/v1/regions 201 190 - 76.662 ms application/json[39m
+[35m[39m
+2022-08-15 01:35:11:3511 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.848 ms application/json[39m
+[35m[39m
+2022-08-15 01:35:37:3537 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.468 ms application/json[39m
+[35m[39m
+2022-08-15 01:36:20:3620 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.407 ms application/json[39m
+[35m[39m
+2022-08-15 01:38:20:3820 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:38:21:3821 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.562 ms application/json[39m
+[35m[39m
+2022-08-15 01:38:28:3828 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.531 ms application/json[39m
+[35m[39m
+2022-08-15 01:38:29:3829 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.327 ms application/json[39m
+[35m[39m
+2022-08-15 01:38:31:3831 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.315 ms application/json[39m
+[35m[39m
+2022-08-15 01:39:58:3958 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:40:15:4015 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:40:17:4017 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.638 ms application/json[39m
+[35m[39m
+2022-08-15 01:40:20:4020 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.582 ms application/json[39m
+[35m[39m
+2022-08-15 01:40:31:4031 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:40:35:4035 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.559 ms application/json[39m
+[35m[39m
+2022-08-15 01:40:38:4038 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.539 ms application/json[39m
+[35m[39m
+2022-08-15 01:40:43:4043 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.379 ms application/json[39m
+[35m[39m
+2022-08-15 01:41:32:4132 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.403 ms application/json[39m
+[35m[39m
+2022-08-15 01:41:45:4145 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:41:47:4147 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.711 ms application/json[39m
+[35m[39m
+2022-08-15 01:42:53:4253 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:43:23:4323 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:43:24:4324 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.658 ms application/json[39m
+[35m[39m
+2022-08-15 01:43:26:4326 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.724 ms application/json[39m
+[35m[39m
+2022-08-15 01:43:27:4327 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.304 ms application/json[39m
+[35m[39m
+2022-08-15 01:43:38:4338 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:43:38:4338 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.085 ms application/json[39m
+[35m[39m
+2022-08-15 01:43:40:4340 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.547 ms application/json[39m
+[35m[39m
+2022-08-15 01:44:29:4429 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:48:09:489 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:49:37:4937 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:49:50:4950 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.841 ms application/json[39m
+[35m[39m
+2022-08-15 01:50:13:5013 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.550 ms application/json[39m
+[35m[39m
+2022-08-15 01:50:51:5051 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:53:09:539 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:53:10:5310 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.976 ms application/json[39m
+[35m[39m
+2022-08-15 01:53:13:5313 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.580 ms application/json[39m
+[35m[39m
+2022-08-15 01:53:25:5325 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:53:26:5326 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.052 ms application/json[39m
+[35m[39m
+2022-08-15 01:53:28:5328 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.604 ms application/json[39m
+[35m[39m
+2022-08-15 01:53:53:5353 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:54:36:5436 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 01:54:36:5436 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.866 ms application/json[39m
+[35m[39m
+2022-08-15 01:54:38:5438 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.595 ms application/json[39m
+[35m[39m
+2022-08-15 01:54:39:5439 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.370 ms application/json[39m
+[35m[39m
+2022-08-15 02:26:11:2611 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:26:21:2621 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.961 ms application/json[39m
+[35m[39m
+2022-08-15 02:26:24:2624 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.664 ms application/json[39m
+[35m[39m
+2022-08-15 02:27:10:2710 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.411 ms application/json[39m
+[35m[39m
+2022-08-15 02:28:37:2837 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:28:38:2838 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.661 ms application/json[39m
+[35m[39m
+2022-08-15 02:29:54:2954 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.611 ms application/json[39m
+[35m[39m
+2022-08-15 02:30:48:3048 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:30:53:3053 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.759 ms application/json[39m
+[35m[39m
+2022-08-15 02:31:29:3129 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:31:49:3149 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:32:06:326 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.946 ms application/json[39m
+[35m[39m
+2022-08-15 02:33:59:3359 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.634 ms application/json[39m
+[35m[39m
+2022-08-15 02:35:03:353 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:35:03:353 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.953 ms application/json[39m
+[35m[39m
+2022-08-15 02:37:34:3734 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:37:35:3735 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.853 ms application/json[39m
+[35m[39m
+2022-08-15 02:40:20:4020 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:40:30:4030 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.530 ms application/json[39m
+[35m[39m
+2022-08-15 02:40:34:4034 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.725 ms application/json[39m
+[35m[39m
+2022-08-15 02:40:36:4036 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.468 ms application/json[39m
+[35m[39m
+2022-08-15 02:40:53:4053 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:41:15:4115 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:41:15:4115 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 8.239 ms application/json[39m
+[35m[39m
+2022-08-15 02:41:38:4138 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:41:41:4141 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.779 ms application/json[39m
+[35m[39m
+2022-08-15 02:43:38:4338 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:43:42:4342 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.806 ms application/json[39m
+[35m[39m
+2022-08-15 02:45:12:4512 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:45:24:4524 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:45:30:4530 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 4.000 ms application/json[39m
+[35m[39m
+2022-08-15 02:45:50:4550 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:46:16:4616 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 4.783 ms application/json[39m
+[35m[39m
+2022-08-15 02:46:35:4635 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:46:36:4636 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 4.007 ms application/json[39m
+[35m[39m
+2022-08-15 02:46:38:4638 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.776 ms application/json[39m
+[35m[39m
+2022-08-15 02:46:49:4649 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:50:09:509 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:50:11:5011 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 3.657 ms application/json[39m
+[35m[39m
+2022-08-15 02:50:53:5053 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:50:56:5056 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 2.681 ms application/json[39m
+[35m[39m
+2022-08-15 02:51:21:5121 [35mhttp[39m: [35mPOST /api/v1/regions 400 120 - 1.955 ms application/json[39m
+[35m[39m
+2022-08-15 02:51:45:5145 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:51:54:5154 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:51:58:5158 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.800 ms application/json[39m
+[35m[39m
+2022-08-15 02:52:40:5240 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:52:44:5244 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 2.789 ms application/json[39m
+[35m[39m
+2022-08-15 02:52:45:5245 [35mhttp[39m: [35mPOST /api/v1/regions 400 125 - 0.537 ms application/json[39m
+[35m[39m
+2022-08-15 02:52:53:5253 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.377 ms application/json[39m
+[35m[39m
+2022-08-15 02:53:02:532 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.499 ms application/json[39m
+[35m[39m
+2022-08-15 02:53:34:5334 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 146.658 ms application/json[39m
+[35m[39m
+2022-08-15 02:53:34:5334 [35mhttp[39m: [35mPOST /api/v1/regions 400 131 - 0.381 ms application/json[39m
+[35m[39m
+2022-08-15 02:53:34:5334 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 137 - 1.157 ms application/json[39m
+[35m[39m
+2022-08-15 02:53:34:5334 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 139 - 1.202 ms application/json[39m
+[35m[39m
+2022-08-15 02:53:34:5334 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 111.261 ms application/json[39m
+[35m[39m
+2022-08-15 02:54:01:541 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:54:02:542 [35mhttp[39m: [35mPOST /api/v1/regions 201 191 - 71.100 ms application/json[39m
+[35m[39m
+2022-08-15 02:54:10:5410 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 11.614 ms application/json[39m
+[35m[39m
+2022-08-15 02:54:10:5410 [35mhttp[39m: [35mPOST /api/v1/regions 400 135 - 0.782 ms application/json[39m
+[35m[39m
+2022-08-15 02:54:10:5410 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 137 - 1.421 ms application/json[39m
+[35m[39m
+2022-08-15 02:54:10:5410 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 139 - 1.475 ms application/json[39m
+[35m[39m
+2022-08-15 02:54:10:5410 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 92.062 ms application/json[39m
+[35m[39m
+2022-08-15 02:56:11:5611 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 10.055 ms application/json[39m
+[35m[39m
+2022-08-15 02:56:11:5611 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 12.987 ms application/json[39m
+[35m[39m
+2022-08-15 02:56:11:5611 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 137 - 0.574 ms application/json[39m
+[35m[39m
+2022-08-15 02:56:11:5611 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 139 - 0.631 ms application/json[39m
+[35m[39m
+2022-08-15 02:56:11:5611 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 65.543 ms application/json[39m
+[35m[39m
+2022-08-15 02:56:46:5646 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:57:05:575 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:57:24:5724 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 02:57:36:5736 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 76.807 ms application/json[39m
+[35m[39m
+2022-08-15 02:57:36:5736 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 32.498 ms application/json[39m
+[35m[39m
+2022-08-15 02:57:36:5736 [35mhttp[39m: [35mPOST /api/v1/constituencies 400 140 - 1.407 ms application/json[39m
+[35m[39m
+2022-08-15 02:57:36:5736 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 146 - 1.256 ms application/json[39m
+[35m[39m
+2022-08-15 02:57:36:5736 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 79.459 ms application/json[39m
+[35m[39m
+2022-08-15 02:59:05:595 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 9.279 ms application/json[39m
+[35m[39m
+2022-08-15 02:59:05:595 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 9.904 ms application/json[39m
+[35m[39m
+2022-08-15 02:59:05:595 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.858 ms application/json[39m
+[35m[39m
+2022-08-15 02:59:05:595 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 13.799 ms application/json[39m
+[35m[39m
+2022-08-15 02:59:05:595 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 43.911 ms application/json[39m
+[35m[39m
+2022-08-15 03:00:28:028 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 10.573 ms application/json[39m
+[35m[39m
+2022-08-15 03:00:28:028 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.146 ms application/json[39m
+[35m[39m
+2022-08-15 03:00:28:028 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 9.737 ms application/json[39m
+[35m[39m
+2022-08-15 03:00:28:028 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 654 - 53.084 ms application/json[39m
+[35m[39m
+2022-08-15 03:00:29:029 [35mhttp[39m: [35mPOST /api/v1/voters 201 516501 - 428.589 ms application/json[39m
+[35m[39m
+2022-08-15 17:18:08:188 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-15 17:18:11:1811 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 229.245 ms application/json[39m
+[35m[39m
+2022-08-15 17:18:11:1811 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 10.846 ms application/json[39m
+[35m[39m
+2022-08-15 17:18:11:1811 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 13.504 ms application/json[39m
+[35m[39m
+2022-08-15 17:18:11:1811 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 22.225 ms application/json[39m
+[35m[39m
+2022-08-15 17:18:11:1811 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 130.894 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:02:192 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 12.624 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:02:192 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 8.721 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:02:192 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.742 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:02:192 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 9.437 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:02:192 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 89.404 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:22:1922 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 10.398 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:22:1922 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 8.910 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:22:1922 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 9.184 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:22:1922 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.516 ms application/json[39m
+[35m[39m
+2022-08-15 17:19:22:1922 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 46.686 ms application/json[39m
+[35m[39m
+2022-08-15 17:20:52:2052 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 11.284 ms application/json[39m
+[35m[39m
+2022-08-15 17:20:52:2052 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 12.740 ms application/json[39m
+[35m[39m
+2022-08-15 17:20:52:2052 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 10.715 ms application/json[39m
+[35m[39m
+2022-08-15 17:20:52:2052 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 15.838 ms application/json[39m
+[35m[39m
+2022-08-15 17:20:52:2052 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 63.658 ms application/json[39m
+[35m[39m
+2022-08-15 17:22:56:2256 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 9.552 ms application/json[39m
+[35m[39m
+2022-08-15 17:22:56:2256 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 6.379 ms application/json[39m
+[35m[39m
+2022-08-15 17:22:56:2256 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.205 ms application/json[39m
+[35m[39m
+2022-08-15 17:22:56:2256 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.815 ms application/json[39m
+[35m[39m
+2022-08-15 17:22:56:2256 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 76.809 ms application/json[39m
+[35m[39m
+2022-08-15 17:25:10:2510 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 8.930 ms application/json[39m
+[35m[39m
+2022-08-15 17:25:10:2510 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 38.530 ms application/json[39m
+[35m[39m
+2022-08-15 17:25:10:2510 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 9.206 ms application/json[39m
+[35m[39m
+2022-08-15 17:25:10:2510 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 35.463 ms application/json[39m
+[35m[39m
+2022-08-15 17:25:10:2510 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 38.798 ms application/json[39m
+[35m[39m
+2022-08-15 17:26:24:2624 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 6.792 ms application/json[39m
+[35m[39m
+2022-08-15 17:26:24:2624 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.630 ms application/json[39m
+[35m[39m
+2022-08-15 17:26:24:2624 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.527 ms application/json[39m
+[35m[39m
+2022-08-15 17:26:24:2624 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.886 ms application/json[39m
+[35m[39m
+2022-08-15 17:26:25:2625 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 58.459 ms application/json[39m
+[35m[39m
+2022-08-15 17:27:05:275 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 9.734 ms application/json[39m
+[35m[39m
+2022-08-15 17:27:05:275 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 18.481 ms application/json[39m
+[35m[39m
+2022-08-15 17:27:05:275 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 10.452 ms application/json[39m
+[35m[39m
+2022-08-15 17:27:05:275 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 11.007 ms application/json[39m
+[35m[39m
+2022-08-15 17:27:05:275 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 35.339 ms application/json[39m
+[35m[39m
+2022-08-15 17:28:05:285 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 36.613 ms application/json[39m
+[35m[39m
+2022-08-15 17:28:05:285 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 8.698 ms application/json[39m
+[35m[39m
+2022-08-15 17:28:05:285 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.109 ms application/json[39m
+[35m[39m
+2022-08-15 17:28:05:285 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.150 ms application/json[39m
+[35m[39m
+2022-08-15 17:28:05:285 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 33.148 ms application/json[39m
+[35m[39m
+2022-08-15 17:34:32:3432 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 46.752 ms application/json[39m
+[35m[39m
+2022-08-15 17:34:32:3432 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 11.670 ms application/json[39m
+[35m[39m
+2022-08-15 17:34:32:3432 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 6.499 ms application/json[39m
+[35m[39m
+2022-08-15 17:34:32:3432 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.093 ms application/json[39m
+[35m[39m
+2022-08-15 17:34:32:3432 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 51.425 ms application/json[39m
+[35m[39m
+2022-08-15 17:40:11:4011 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 20.674 ms application/json[39m
+[35m[39m
+2022-08-15 17:40:11:4011 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 9.135 ms application/json[39m
+[35m[39m
+2022-08-15 17:40:11:4011 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 12.264 ms application/json[39m
+[35m[39m
+2022-08-15 17:40:11:4011 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 10.149 ms application/json[39m
+[35m[39m
+2022-08-15 17:40:11:4011 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 81.088 ms application/json[39m
+[35m[39m
+2022-08-15 17:44:41:4441 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 26.873 ms application/json[39m
+[35m[39m
+2022-08-15 17:44:41:4441 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 6.752 ms application/json[39m
+[35m[39m
+2022-08-15 17:44:41:4441 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.420 ms application/json[39m
+[35m[39m
+2022-08-15 17:44:41:4441 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.705 ms application/json[39m
+[35m[39m
+2022-08-15 17:44:41:4441 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 36.270 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:42:4542 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 7.257 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:42:4542 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.040 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:42:4542 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.043 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:42:4542 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 40.223 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:43:4543 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 45.076 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:53:4553 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 6.890 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:53:4553 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 15.416 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:53:4553 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 17.113 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:53:4553 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 14.223 ms application/json[39m
+[35m[39m
+2022-08-15 17:45:53:4553 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 33.940 ms application/json[39m
+[35m[39m
+2022-08-15 17:55:33:5533 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 13.965 ms application/json[39m
+[35m[39m
+2022-08-15 17:55:33:5533 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 6.966 ms application/json[39m
+[35m[39m
+2022-08-15 17:55:33:5533 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 36.864 ms application/json[39m
+[35m[39m
+2022-08-15 17:55:33:5533 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.273 ms application/json[39m
+[35m[39m
+2022-08-15 17:55:33:5533 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 64.169 ms application/json[39m
+[35m[39m
+2022-08-15 17:56:30:5630 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 9.490 ms application/json[39m
+[35m[39m
+2022-08-15 17:56:30:5630 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 34.233 ms application/json[39m
+[35m[39m
+2022-08-15 17:56:30:5630 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.450 ms application/json[39m
+[35m[39m
+2022-08-15 17:56:30:5630 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 13.247 ms application/json[39m
+[35m[39m
+2022-08-15 17:56:30:5630 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 36.494 ms application/json[39m
+[35m[39m
+2022-08-15 17:58:21:5821 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 11.976 ms application/json[39m
+[35m[39m
+2022-08-15 17:58:21:5821 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 11.588 ms application/json[39m
+[35m[39m
+2022-08-15 17:58:21:5821 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.215 ms application/json[39m
+[35m[39m
+2022-08-15 17:58:21:5821 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 6.770 ms application/json[39m
+[35m[39m
+2022-08-15 17:58:21:5821 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 64.597 ms application/json[39m
+[35m[39m
+2022-08-15 17:59:47:5947 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 6.879 ms application/json[39m
+[35m[39m
+2022-08-15 17:59:47:5947 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.208 ms application/json[39m
+[35m[39m
+2022-08-15 17:59:47:5947 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 9.180 ms application/json[39m
+[35m[39m
+2022-08-15 17:59:47:5947 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 23.697 ms application/json[39m
+[35m[39m
+2022-08-15 17:59:47:5947 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 36.079 ms application/json[39m
+[35m[39m
+2022-08-15 18:01:25:125 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 13.442 ms application/json[39m
+[35m[39m
+2022-08-15 18:01:25:125 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 9.748 ms application/json[39m
+[35m[39m
+2022-08-15 18:01:25:125 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 11.276 ms application/json[39m
+[35m[39m
+2022-08-15 18:01:25:125 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 6.255 ms application/json[39m
+[35m[39m
+2022-08-15 18:01:25:125 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 33.340 ms application/json[39m
+[35m[39m
+2022-08-15 18:06:57:657 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 24.921 ms application/json[39m
+[35m[39m
+2022-08-15 18:06:57:657 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 6.746 ms application/json[39m
+[35m[39m
+2022-08-15 18:06:57:657 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.066 ms application/json[39m
+[35m[39m
+2022-08-15 18:06:57:657 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.784 ms application/json[39m
+[35m[39m
+2022-08-15 18:06:58:658 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 88.606 ms application/json[39m
+[35m[39m
+2022-08-15 18:07:31:731 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 37.103 ms application/json[39m
+[35m[39m
+2022-08-15 18:07:31:731 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.465 ms application/json[39m
+[35m[39m
+2022-08-15 18:07:31:731 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.078 ms application/json[39m
+[35m[39m
+2022-08-15 18:07:31:731 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.226 ms application/json[39m
+[35m[39m
+2022-08-15 18:07:31:731 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 34.101 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:20:1020 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 8.242 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:20:1020 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.175 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:20:1020 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.056 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:20:1020 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 40.650 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:20:1020 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 34.863 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:38:1038 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 20.428 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:38:1038 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 11.950 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:38:1038 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 9.338 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:38:1038 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.302 ms application/json[39m
+[35m[39m
+2022-08-15 18:10:38:1038 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 34.617 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:17:1217 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 10.395 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:17:1217 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 23.258 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:17:1217 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.954 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:17:1217 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 10.287 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:17:1217 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 43.602 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:35:1235 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 13.171 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:35:1235 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 13.749 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:35:1235 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.290 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:35:1235 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.929 ms application/json[39m
+[35m[39m
+2022-08-15 18:12:35:1235 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 37.961 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:05:165 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 10.655 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:05:165 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 8.970 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:05:165 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.461 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:05:165 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.979 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:05:165 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 57.024 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:56:1656 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 9.844 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:56:1656 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.067 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:56:1656 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 6.140 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:56:1656 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.071 ms application/json[39m
+[35m[39m
+2022-08-15 18:16:56:1656 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 33.405 ms application/json[39m
+[35m[39m
+2022-08-15 18:39:58:3958 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 33.343 ms application/json[39m
+[35m[39m
+2022-08-15 18:39:58:3958 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 8.773 ms application/json[39m
+[35m[39m
+2022-08-15 18:39:58:3958 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.558 ms application/json[39m
+[35m[39m
+2022-08-15 18:39:58:3958 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 9.319 ms application/json[39m
+[35m[39m
+2022-08-15 18:39:58:3958 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 63.367 ms application/json[39m
+[35m[39m
+2022-08-15 22:29:47:2947 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 43.720 ms application/json[39m
+[35m[39m
+2022-08-15 22:29:47:2947 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 9.609 ms application/json[39m
+[35m[39m
+2022-08-15 22:29:47:2947 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 9.613 ms application/json[39m
+[35m[39m
+2022-08-15 22:29:47:2947 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.506 ms application/json[39m
+[35m[39m
+2022-08-15 22:29:47:2947 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 76.696 ms application/json[39m
+[35m[39m
+2022-08-15 22:34:06:346 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 16.564 ms application/json[39m
+[35m[39m
+2022-08-15 22:34:06:346 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 10.286 ms application/json[39m
+[35m[39m
+2022-08-15 22:34:06:346 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 10.282 ms application/json[39m
+[35m[39m
+2022-08-15 22:34:06:346 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.255 ms application/json[39m
+[35m[39m
+2022-08-15 22:34:06:346 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 35.152 ms application/json[39m
+[35m[39m
+2022-08-15 22:43:46:4346 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 17.949 ms application/json[39m
+[35m[39m
+2022-08-15 22:43:46:4346 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 35.442 ms application/json[39m
+[35m[39m
+2022-08-15 22:43:46:4346 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.463 ms application/json[39m
+[35m[39m
+2022-08-15 22:43:46:4346 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 10.813 ms application/json[39m
+[35m[39m
+2022-08-15 22:43:46:4346 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 50.810 ms application/json[39m
+[35m[39m
+2022-08-15 22:50:06:506 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 18.414 ms application/json[39m
+[35m[39m
+2022-08-15 22:50:06:506 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 7.385 ms application/json[39m
+[35m[39m
+2022-08-15 22:50:06:506 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 6.931 ms application/json[39m
+[35m[39m
+2022-08-15 22:50:06:506 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.417 ms application/json[39m
+[35m[39m
+2022-08-15 22:50:07:507 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 105.602 ms application/json[39m
+[35m[39m
+2022-08-15 22:54:42:5442 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 13.535 ms application/json[39m
+[35m[39m
+2022-08-15 22:54:42:5442 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 15.526 ms application/json[39m
+[35m[39m
+2022-08-15 22:54:42:5442 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 9.845 ms application/json[39m
+[35m[39m
+2022-08-15 22:54:42:5442 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.729 ms application/json[39m
+[35m[39m
+2022-08-15 22:54:42:5442 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 37.139 ms application/json[39m
+[35m[39m
+2022-08-16 08:52:15:5215 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 32.642 ms application/json[39m
+[35m[39m
+2022-08-16 08:52:15:5215 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 25.603 ms application/json[39m
+[35m[39m
+2022-08-16 08:52:15:5215 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.326 ms application/json[39m
+[35m[39m
+2022-08-16 08:52:15:5215 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 8.521 ms application/json[39m
+[35m[39m
+2022-08-16 08:52:15:5215 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 63.547 ms application/json[39m
+[35m[39m
+2022-08-16 09:13:44:1344 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 20.630 ms application/json[39m
+[35m[39m
+2022-08-16 09:13:44:1344 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 6.979 ms application/json[39m
+[35m[39m
+2022-08-16 09:13:44:1344 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.400 ms application/json[39m
+[35m[39m
+2022-08-16 09:13:44:1344 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 7.987 ms application/json[39m
+[35m[39m
+2022-08-16 09:13:44:1344 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 57.954 ms application/json[39m
+[35m[39m
+2022-08-16 09:24:15:2415 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 45.817 ms application/json[39m
+[35m[39m
+2022-08-16 09:24:15:2415 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 8.269 ms application/json[39m
+[35m[39m
+2022-08-16 09:24:15:2415 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 8.580 ms application/json[39m
+[35m[39m
+2022-08-16 09:24:15:2415 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 6.023 ms application/json[39m
+[35m[39m
+2022-08-16 09:24:15:2415 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 49.964 ms application/json[39m
+[35m[39m
+2022-08-16 09:42:29:4229 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 41.792 ms application/json[39m
+[35m[39m
+2022-08-16 09:42:29:4229 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 6.975 ms application/json[39m
+[35m[39m
+2022-08-16 09:42:29:4229 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.016 ms application/json[39m
+[35m[39m
+2022-08-16 09:42:29:4229 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 6.552 ms application/json[39m
+[35m[39m
+2022-08-16 09:42:29:4229 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 44.326 ms application/json[39m
+[35m[39m
+2022-08-16 09:45:26:4526 [35mhttp[39m: [35mPOST /api/v1/countries 201 152 - 43.133 ms application/json[39m
+[35m[39m
+2022-08-16 09:45:26:4526 [35mhttp[39m: [35mPOST /api/v1/regions 201 189 - 12.801 ms application/json[39m
+[35m[39m
+2022-08-16 09:45:26:4526 [35mhttp[39m: [35mPOST /api/v1/constituencies 201 216 - 7.874 ms application/json[39m
+[35m[39m
+2022-08-16 09:45:26:4526 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 257 - 5.633 ms application/json[39m
+[35m[39m
+2022-08-16 09:45:26:4526 [35mhttp[39m: [35mPOST /api/v1/voters 201 35219 - 31.029 ms application/json[39m
+[35m[39m
+2022-08-17 21:51:09:519 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 21:51:35:5135 [35mhttp[39m: [35mGET /api/v1/voters 401 1374 - 6.559 ms -[39m
+[35m[39m
+2022-08-17 21:52:09:529 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 21:52:10:5210 [35mhttp[39m: [35mGET /api/v1/voters 200 1691 - 227.353 ms -[39m
+[35m[39m
+2022-08-17 21:56:53:5653 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 21:57:02:572 [35mhttp[39m: [35mGET /api/v1/countries 401 1374 - 6.228 ms -[39m
+[35m[39m
+2022-08-17 21:59:03:593 [35mhttp[39m: [35mGET /api/v1/countries 401 1374 - 1.286 ms -[39m
+[35m[39m
+2022-08-17 22:05:59:559 [35mhttp[39m: [35mGET /api/v1/countries 200 111 - 1246.110 ms -[39m
+[35m[39m
+2022-08-17 22:09:13:913 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 1374 - 0.922 ms -[39m
+[35m[39m
+2022-08-17 22:10:15:1015 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:29:36:2936 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:29:52:2952 [35mhttp[39m: [35mGET /api/v1/countries 200 111 - 1870.777 ms -[39m
+[35m[39m
+2022-08-17 22:34:40:3440 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:37:07:377 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:46:40:4640 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:46:48:4648 [35mhttp[39m: [35mGET /api/v1/countries 200 111 - 1187.466 ms -[39m
+[35m[39m
+2022-08-17 22:49:14:4914 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:49:27:4927 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:51:58:5158 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:52:04:524 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 1374 - 6.534 ms -[39m
+[35m[39m
+2022-08-17 22:56:55:5655 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 22:56:57:5657 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 65 - 2.562 ms -[39m
+[35m[39m
+2022-08-17 22:57:01:571 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 65 - 0.565 ms -[39m
+[35m[39m
+2022-08-17 23:23:10:2310 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:26:25:2625 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:26:33:2633 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:33:22:3322 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:33:28:3328 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:33:35:3335 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:37:26:3726 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:37:53:3753 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:38:05:385 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:38:44:3844 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:38:45:3845 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 1374 - 5.735 ms -[39m
+[35m[39m
+2022-08-17 23:40:00:400 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:40:14:4014 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:40:19:4019 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 1374 - 5.993 ms -[39m
+[35m[39m
+2022-08-17 23:40:20:4020 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 1374 - 1.253 ms -[39m
+[35m[39m
+2022-08-17 23:40:20:4020 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 1374 - 0.914 ms -[39m
+[35m[39m
+2022-08-17 23:40:20:4020 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 1374 - 0.882 ms -[39m
+[35m[39m
+2022-08-17 23:40:36:4036 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:41:10:4110 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:41:11:4111 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:41:11:4111 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 65 - 3.119 ms -[39m
+[35m[39m
+2022-08-17 23:44:34:4434 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:45:54:4554 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:46:06:466 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:46:32:4632 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:46:54:4654 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:50:17:5017 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:50:20:5020 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:50:20:5020 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:50:20:5020 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:50:20:5020 [32minfo[39m: [32m---[39m
+2022-08-17 23:50:20:5020 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:50:20:5020 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 65 - 5.018 ms - {}[39m
+[35m[39m
+2022-08-17 23:51:21:5121 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:51:21:5121 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:51:21:5121 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:51:21:5121 [32minfo[39m: [32m---[39m
+2022-08-17 23:51:21:5121 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:51:21:5121 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 65 - 1.681 ms - {}[39m
+[35m[39m
+2022-08-17 23:51:49:5149 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:52:16:5216 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:52:18:5218 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:52:18:5218 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:52:18:5218 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:52:18:5218 [32minfo[39m: [32m---[39m
+2022-08-17 23:52:18:5218 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:52:18:5218 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 214 - 4.230 ms - {}[39m
+[35m[39m
+2022-08-17 23:52:51:5251 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:54:10:5410 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:54:14:5414 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:54:26:5426 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:54:26:5426 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:54:26:5426 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:54:26:5426 [32minfo[39m: [32m---[39m
+2022-08-17 23:54:26:5426 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:54:26:5426 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 214 - 4.588 ms - {}[39m
+[35m[39m
+2022-08-17 23:54:27:5427 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:54:27:5427 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:54:27:5427 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:54:27:5427 [32minfo[39m: [32m---[39m
+2022-08-17 23:54:27:5427 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:54:27:5427 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 214 - 1.642 ms - {}[39m
+[35m[39m
+2022-08-17 23:54:35:5435 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:54:35:5435 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:54:35:5435 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:54:35:5435 [32minfo[39m: [32m---[39m
+2022-08-17 23:54:35:5435 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:54:35:5435 [35mhttp[39m: [35mGET /api/v1/pollingStationss 401 214 - 1.336 ms - {}[39m
+[35m[39m
+2022-08-17 23:54:38:5438 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:54:38:5438 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:54:38:5438 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:54:38:5438 [32minfo[39m: [32m---[39m
+2022-08-17 23:54:38:5438 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:54:38:5438 [35mhttp[39m: [35mGET /api/v1/pollingStationss 401 214 - 1.263 ms - {}[39m
+[35m[39m
+2022-08-17 23:56:15:5615 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:56:15:5615 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:56:15:5615 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:56:15:5615 [32minfo[39m: [32m---[39m
+2022-08-17 23:56:15:5615 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:56:15:5615 [35mhttp[39m: [35mGET /api/v1/pollingStationss 401 214 - 0.971 ms - {}[39m
+[35m[39m
+2022-08-17 23:56:18:5618 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:56:18:5618 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:56:18:5618 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:56:18:5618 [32minfo[39m: [32m---[39m
+2022-08-17 23:56:18:5618 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-17 23:56:18:5618 [35mhttp[39m: [35mGET /api/v1/pollingStations 401 214 - 1.116 ms - {}[39m
+[35m[39m
+2022-08-17 23:56:24:5624 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:56:24:5624 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:56:24:5624 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:56:24:5624 [32minfo[39m: [32m---[39m
+2022-08-17 23:56:25:5625 [35mhttp[39m: [35mGET /api/v1/countries 200 111 - 951.952 ms - {}[39m
+[35m[39m
+2022-08-17 23:56:30:5630 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:56:30:5630 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:56:30:5630 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:56:30:5630 [32minfo[39m: [32m---[39m
+2022-08-17 23:56:30:5630 [35mhttp[39m: [35mGET /api/v1/countriesn 404 28 - 1.946 ms - {}[39m
+[35m[39m
+2022-08-17 23:57:23:5723 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:57:37:5737 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-17 23:57:52:5752 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:57:52:5752 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:57:52:5752 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:57:52:5752 [32minfo[39m: [32m---[39m
+2022-08-17 23:57:52:5752 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 733.065 ms - {}[39m
+[35m[39m
+2022-08-17 23:58:19:5819 [32minfo[39m: [32mMethod:[39m
+2022-08-17 23:58:19:5819 [32minfo[39m: [32mPath:  [39m
+2022-08-17 23:58:19:5819 [32minfo[39m: [32mBody:  [39m
+2022-08-17 23:58:19:5819 [32minfo[39m: [32m---[39m
+2022-08-17 23:58:19:5819 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 2.565 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:05:95 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:09:07:97 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:07:97 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:07:97 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:07:97 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:09:99 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 1559.778 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:10:910 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:10:910 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:10:910 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:10:910 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:11:911 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 2.207 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:11:911 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:11:911 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:11:911 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:11:911 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:11:911 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 1.627 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:12:912 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:12:912 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:12:912 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:12:912 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:12:912 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 1.416 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:13:913 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:13:913 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:13:913 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:13:913 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:13:913 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 1.735 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:14:914 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:14:914 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:14:914 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:14:914 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:14:914 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 1.357 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:15:915 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:15:915 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:15:915 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:15:915 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:15:915 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 1.281 ms - {}[39m
+[35m[39m
+2022-08-18 00:09:16:916 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:09:16:916 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:09:16:916 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:09:16:916 [32minfo[39m: [32m---[39m
+2022-08-18 00:09:16:916 [35mhttp[39m: [35mGET /api/v1/countriesn 404 45 - 1.411 ms - {}[39m
+[35m[39m
+2022-08-18 00:11:17:1117 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:11:22:1122 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:12:00:120 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:13:43:1343 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:14:45:1445 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:14:52:1452 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:16:12:1612 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:16:49:1649 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:18:41:1841 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:23:22:2322 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-18 00:23:22:2322 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:23:22:2322 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:23:22:2322 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:23:22:2322 [32minfo[39m: [32m---[39m
+2022-08-18 00:23:23:2323 [35mhttp[39m: [35mGET /api/v1/countriesn 404 - - 1105.796 ms - {}[39m
+[35m[39m
+2022-08-18 00:23:28:2328 [32minfo[39m: [32mMethod:[39m
+2022-08-18 00:23:28:2328 [32minfo[39m: [32mPath:  [39m
+2022-08-18 00:23:28:2328 [32minfo[39m: [32mBody:  [39m
+2022-08-18 00:23:28:2328 [32minfo[39m: [32m---[39m
+2022-08-18 00:23:28:2328 [35mhttp[39m: [35mGET /api/v1/countries 200 - - 157.673 ms - {}[39m
+[35m[39m
+2022-08-19 15:14:33:1433 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:14:41:1441 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:14:41:1441 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:14:41:1441 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:14:41:1441 [32minfo[39m: [32m---[39m
+2022-08-19 15:14:41:1441 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-19 15:14:41:1441 [35mhttp[39m: [35mGET /api/v1/voters 401 - - 5.988 ms - {}[39m
+[35m[39m
+2022-08-19 15:14:52:1452 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:14:52:1452 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:14:52:1452 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:14:52:1452 [32minfo[39m: [32m---[39m
+2022-08-19 15:14:52:1452 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-19 15:14:52:1452 [35mhttp[39m: [35mGET /api/v1/voters 401 - - 2.087 ms - {}[39m
+[35m[39m
+2022-08-19 15:15:48:1548 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:15:48:1548 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:15:48:1548 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:15:48:1548 [32minfo[39m: [32m---[39m
+2022-08-19 15:15:48:1548 [31merror[39m: [31mNo authorization token was found[39m
+2022-08-19 15:15:48:1548 [35mhttp[39m: [35mGET /api/v1/voters 401 - - 2.203 ms - {}[39m
+[35m[39m
+2022-08-19 15:17:07:177 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:17:07:177 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:17:07:177 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:17:07:177 [32minfo[39m: [32m---[39m
+2022-08-19 15:17:08:178 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 1241.309 ms - {}[39m
+[35m[39m
+2022-08-19 15:18:08:188 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:18:54:1854 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:19:50:1950 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:19:58:1958 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:19:58:1958 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:19:58:1958 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:19:58:1958 [32minfo[39m: [32m---[39m
+2022-08-19 15:19:58:1958 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:19:58:1958 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 419.049 ms - {}[39m
+[35m[39m
+2022-08-19 15:20:03:203 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:20:03:203 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:20:03:203 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:20:03:203 [32minfo[39m: [32m---[39m
+2022-08-19 15:20:03:203 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:20:03:203 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.861 ms - {}[39m
+[35m[39m
+2022-08-19 15:26:40:2640 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:26:40:2640 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:26:43:2643 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:26:43:2643 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:26:43:2643 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:26:43:2643 [32minfo[39m: [32m---[39m
+2022-08-19 15:26:44:2644 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:26:44:2644 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 554.500 ms - {}[39m
+[35m[39m
+2022-08-19 15:27:07:277 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:27:07:277 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:28:01:281 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:28:01:281 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:28:08:288 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:28:09:289 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:28:13:2813 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:28:13:2813 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:28:13:2813 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:28:13:2813 [32minfo[39m: [32m---[39m
+2022-08-19 15:28:14:2814 [31merror[39m: [31m[31merror[31m[39m
+2022-08-19 15:28:14:2814 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 356.252 ms - {}[39m
+[35m[39m
+2022-08-19 15:29:03:293 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:29:03:293 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:29:08:298 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:29:08:298 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:29:08:298 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:29:08:298 [32minfo[39m: [32m---[39m
+2022-08-19 15:29:08:298 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:29:08:298 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 410.011 ms - {}[39m
+[35m[39m
+2022-08-19 15:29:37:2937 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:29:37:2937 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:29:40:2940 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:29:40:2940 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:29:40:2940 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:29:40:2940 [32minfo[39m: [32m---[39m
+2022-08-19 15:29:40:2940 [31merror[39m: [31mmessage[39m
+2022-08-19 15:29:40:2940 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 567.369 ms - {}[39m
+[35m[39m
+2022-08-19 15:31:34:3134 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:31:34:3134 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:31:36:3136 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:31:36:3136 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:31:36:3136 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:31:36:3136 [32minfo[39m: [32m---[39m
+2022-08-19 15:31:36:3136 [31merror[39m: [31mmessage[39m
+2022-08-19 15:31:36:3136 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 393.210 ms - {}[39m
+[35m[39m
+2022-08-19 15:35:32:3532 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:35:32:3532 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:35:33:3533 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:35:33:3533 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:35:33:3533 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:35:33:3533 [32minfo[39m: [32m---[39m
+2022-08-19 15:35:56:3556 [31merror[39m: [31mmessage[39m
+2022-08-19 15:35:56:3556 [31merror[39m: [31mmessage[39m
+2022-08-19 15:35:56:3556 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 22795.340 ms - {}[39m
+[35m[39m
+2022-08-19 15:36:44:3644 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:36:45:3645 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:36:46:3646 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:36:46:3646 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:36:46:3646 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:36:46:3646 [32minfo[39m: [32m---[39m
+2022-08-19 15:36:47:3647 [31merror[39m: [31mmessage[39m
+2022-08-19 15:36:47:3647 [31merror[39m: [31mend[39m
+2022-08-19 15:36:47:3647 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 589.935 ms - {}[39m
+[35m[39m
+2022-08-19 15:37:24:3724 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:37:24:3724 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:38:01:381 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:38:01:381 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:38:05:385 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:38:05:385 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:38:05:385 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:38:05:385 [32minfo[39m: [32m---[39m
+2022-08-19 15:38:05:385 [31merror[39m: [31mmessage[39m
+2022-08-19 15:38:05:385 [31merror[39m: [31mend[39m
+2022-08-19 15:38:05:385 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 398.491 ms - {}[39m
+[35m[39m
+2022-08-19 15:38:10:3810 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:38:10:3810 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:38:10:3810 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:38:10:3810 [32minfo[39m: [32m---[39m
+2022-08-19 15:38:10:3810 [31merror[39m: [31mmessage[39m
+2022-08-19 15:38:10:3810 [31merror[39m: [31mend[39m
+2022-08-19 15:38:10:3810 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.155 ms - {}[39m
+[35m[39m
+2022-08-19 15:38:11:3811 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:38:11:3811 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:38:11:3811 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:38:11:3811 [32minfo[39m: [32m---[39m
+2022-08-19 15:38:11:3811 [31merror[39m: [31mmessage[39m
+2022-08-19 15:38:11:3811 [31merror[39m: [31mend[39m
+2022-08-19 15:38:11:3811 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.622 ms - {}[39m
+[35m[39m
+2022-08-19 15:38:12:3812 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:38:12:3812 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:38:12:3812 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:38:12:3812 [32minfo[39m: [32m---[39m
+2022-08-19 15:38:12:3812 [31merror[39m: [31mmessage[39m
+2022-08-19 15:38:12:3812 [31merror[39m: [31mend[39m
+2022-08-19 15:38:12:3812 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.156 ms - {}[39m
+[35m[39m
+2022-08-19 15:40:03:403 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:40:03:403 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:40:04:404 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:40:04:404 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:40:04:404 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:40:04:404 [32minfo[39m: [32m---[39m
+2022-08-19 15:40:04:404 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:40:04:404 [31merror[39m: [31mend[39m
+2022-08-19 15:40:04:404 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 373.933 ms - {}[39m
+[35m[39m
+2022-08-19 15:40:50:4050 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:40:50:4050 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:40:51:4051 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:40:51:4051 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:40:51:4051 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:40:51:4051 [32minfo[39m: [32m---[39m
+2022-08-19 15:40:51:4051 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:40:51:4051 [31merror[39m: [31mend[39m
+2022-08-19 15:40:51:4051 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 427.904 ms - {}[39m
+[35m[39m
+2022-08-19 15:41:04:414 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:41:04:414 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:41:05:415 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:41:05:415 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:41:05:415 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:41:05:415 [32minfo[39m: [32m---[39m
+2022-08-19 15:41:05:415 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:41:05:415 [31merror[39m: [31mend[39m
+2022-08-19 15:41:05:415 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 221.118 ms - {}[39m
+[35m[39m
+2022-08-19 15:41:07:417 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:41:07:417 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:41:07:417 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:41:07:417 [32minfo[39m: [32m---[39m
+2022-08-19 15:41:07:417 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:41:07:417 [31merror[39m: [31mend[39m
+2022-08-19 15:41:07:417 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.162 ms - {}[39m
+[35m[39m
+2022-08-19 15:41:08:418 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:41:08:418 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:41:08:418 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:41:08:418 [32minfo[39m: [32m---[39m
+2022-08-19 15:41:08:418 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:41:08:418 [31merror[39m: [31mend[39m
+2022-08-19 15:41:08:418 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.212 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:13:4213 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:42:13:4213 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:42:16:4216 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:16:4216 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:16:4216 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:16:4216 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:17:4217 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:17:4217 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 822.857 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:18:4218 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:18:4218 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:18:4218 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:18:4218 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:18:4218 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:18:4218 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.664 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:25:4225 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:25:4225 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:25:4225 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:25:4225 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:25:4225 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:25:4225 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.074 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:55:4255 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:42:55:4255 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:42:55:4255 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:55:4255 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:55:4255 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:55:4255 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:56:4256 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:56:4256 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 368.707 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:57:4257 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:57:4257 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:57:4257 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:57:4257 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:57:4257 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:57:4257 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.888 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:58:4258 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:58:4258 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.144 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:58:4258 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:58:4258 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.047 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:58:4258 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:58:4258 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:58:4258 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.935 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:59:4259 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:59:4259 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.728 ms - {}[39m
+[35m[39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:42:59:4259 [32minfo[39m: [32m---[39m
+2022-08-19 15:42:59:4259 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:42:59:4259 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.133 ms - {}[39m
+[35m[39m
+2022-08-19 15:43:37:4337 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:43:55:4355 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:43:55:4355 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:47:06:476 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-19 15:47:06:476 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:47:21:4721 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 15:47:22:4722 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 15:47:22:4722 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:47:22:4722 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:47:22:4722 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:47:22:4722 [32minfo[39m: [32m---[39m
+2022-08-19 15:47:22:4722 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:47:22:4722 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 410.360 ms - {}[39m
+[35m[39m
+2022-08-19 15:47:24:4724 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:47:24:4724 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:47:24:4724 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:47:24:4724 [32minfo[39m: [32m---[39m
+2022-08-19 15:47:24:4724 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:47:24:4724 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.040 ms - {}[39m
+[35m[39m
+2022-08-19 15:48:13:4813 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:48:13:4813 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:48:13:4813 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:48:13:4813 [32minfo[39m: [32m---[39m
+2022-08-19 15:48:13:4813 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:48:13:4813 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.420 ms - {}[39m
+[35m[39m
+2022-08-19 15:50:14:5014 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:50:14:5014 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:50:14:5014 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:50:14:5014 [32minfo[39m: [32m---[39m
+2022-08-19 15:50:14:5014 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:50:14:5014 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.140 ms - {}[39m
+[35m[39m
+2022-08-19 15:51:17:5117 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:51:17:5117 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:51:17:5117 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:51:17:5117 [32minfo[39m: [32m---[39m
+2022-08-19 15:51:17:5117 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:51:17:5117 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.254 ms - {}[39m
+[35m[39m
+2022-08-19 15:51:19:5119 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:51:19:5119 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:51:19:5119 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:51:19:5119 [32minfo[39m: [32m---[39m
+2022-08-19 15:51:19:5119 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:51:19:5119 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 4.382 ms - {}[39m
+[35m[39m
+2022-08-19 15:51:32:5132 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:51:32:5132 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:51:32:5132 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:51:32:5132 [32minfo[39m: [32m---[39m
+2022-08-19 15:51:32:5132 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:51:32:5132 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.677 ms - {}[39m
+[35m[39m
+2022-08-19 15:58:18:5818 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:58:18:5818 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:58:18:5818 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:58:18:5818 [32minfo[39m: [32m---[39m
+2022-08-19 15:58:18:5818 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:58:18:5818 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 539.351 ms - {}[39m
+[35m[39m
+2022-08-19 15:58:31:5831 [32minfo[39m: [32mMethod:[39m
+2022-08-19 15:58:31:5831 [32minfo[39m: [32mPath:  [39m
+2022-08-19 15:58:31:5831 [32minfo[39m: [32mBody:  [39m
+2022-08-19 15:58:31:5831 [32minfo[39m: [32m---[39m
+2022-08-19 15:58:31:5831 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 15:58:31:5831 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.793 ms - {}[39m
+[35m[39m
+2022-08-19 16:00:12:012 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:00:12:012 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:00:25:025 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:00:25:025 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:00:25:025 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:00:25:025 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:00:25:025 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:00:25:025 [32minfo[39m: [32m---[39m
+2022-08-19 16:00:26:026 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:00:26:026 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 772.540 ms - {}[39m
+[35m[39m
+2022-08-19 16:00:33:033 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:00:33:033 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:00:33:033 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:00:33:033 [32minfo[39m: [32m---[39m
+2022-08-19 16:00:33:033 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:00:33:033 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.064 ms - {}[39m
+[35m[39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32m---[39m
+2022-08-19 16:00:34:034 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:00:34:034 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 5.539 ms - {}[39m
+[35m[39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:00:34:034 [32minfo[39m: [32m---[39m
+2022-08-19 16:00:34:034 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:00:34:034 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.137 ms - {}[39m
+[35m[39m
+2022-08-19 16:02:57:257 [37mdebug[39m: [37mpermissions[39m
+2022-08-19 16:02:57:257 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:03:13:313 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:03:13:313 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:03:13:313 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:03:13:313 [32minfo[39m: [32m---[39m
+2022-08-19 16:03:13:313 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:03:13:313 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 406.475 ms - {}[39m
+[35m[39m
+2022-08-19 16:04:11:411 [37mdebug[39m: [37mpermissions[39m
+2022-08-19 16:04:11:411 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:04:13:413 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:04:13:413 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:04:13:413 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:04:13:413 [32minfo[39m: [32m---[39m
+2022-08-19 16:04:13:413 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:04:13:413 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 604.930 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:05:55 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:05:55 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:05:55 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:05:55 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:05:55 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:05:55 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.966 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:06:56 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:06:56 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.635 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:06:56 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:06:56 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.168 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:06:56 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:06:56 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:06:56 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.380 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:21:521 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:21:521 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:21:521 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:21:521 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:21:521 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:21:521 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.690 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:38:538 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:38:538 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:38:538 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:38:538 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:38:538 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:38:538 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.917 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:43:543 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:43:543 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.855 ms - {}[39m
+[35m[39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:05:43:543 [32minfo[39m: [32m---[39m
+2022-08-19 16:05:43:543 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:05:43:543 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.046 ms - {}[39m
+[35m[39m
+2022-08-19 16:07:01:71 [37mdebug[39m: [37mpermissions[39m
+2022-08-19 16:07:01:71 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:07:05:75 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:07:05:75 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:07:05:75 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:07:05:75 [32minfo[39m: [32m---[39m
+2022-08-19 16:07:07:77 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:07:07:77 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2459.582 ms - {}[39m
+[35m[39m
+2022-08-19 16:07:18:718 [37mdebug[39m: [37mpermissions[39m
+2022-08-19 16:07:18:718 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:07:23:723 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:07:23:723 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:07:23:723 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:07:23:723 [32minfo[39m: [32m---[39m
+2022-08-19 16:07:24:724 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:07:24:724 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 864.593 ms - {}[39m
+[35m[39m
+2022-08-19 16:07:37:737 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:07:37:737 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:08:10:810 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:08:10:810 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:08:13:813 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:08:13:813 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:08:13:813 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:08:13:813 [32minfo[39m: [32m---[39m
+2022-08-19 16:08:15:815 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:08:15:815 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1226.589 ms - {}[39m
+[35m[39m
+2022-08-19 16:08:25:825 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:08:25:825 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:08:25:825 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:08:25:825 [32minfo[39m: [32m---[39m
+2022-08-19 16:08:25:825 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:08:25:825 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.808 ms - {}[39m
+[35m[39m
+2022-08-19 16:08:41:841 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:08:41:841 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:09:16:916 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:09:25:925 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:09:25:925 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:09:25:925 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:09:25:925 [32minfo[39m: [32m---[39m
+2022-08-19 16:09:26:926 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 692.099 ms - {}[39m
+[35m[39m
+2022-08-19 16:13:11:1311 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:13:13:1313 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:13:13:1313 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:13:13:1313 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:13:13:1313 [32minfo[39m: [32m---[39m
+2022-08-19 16:13:16:1316 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 3315.482 ms - {}[39m
+[35m[39m
+2022-08-19 16:14:01:141 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:14:10:1410 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:14:16:1416 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:14:16:1416 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:14:16:1416 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:14:16:1416 [32minfo[39m: [32m---[39m
+2022-08-19 16:14:17:1417 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 1646.589 ms - {}[39m
+[35m[39m
+2022-08-19 16:14:41:1441 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:28:24:2824 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:28:24:2824 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:28:24:2824 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:28:24:2824 [32minfo[39m: [32m---[39m
+2022-08-19 16:28:25:2825 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 1313.682 ms - {}[39m
+[35m[39m
+2022-08-19 16:29:07:297 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:29:07:297 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:29:12:2912 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:29:12:2912 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:29:12:2912 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:29:12:2912 [32minfo[39m: [32m---[39m
+2022-08-19 16:29:13:2913 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:29:13:2913 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 903.772 ms - {}[39m
+[35m[39m
+2022-08-19 16:33:16:3316 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:33:16:3316 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:33:16:3316 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:33:16:3316 [32minfo[39m: [32m---[39m
+2022-08-19 16:33:16:3316 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:33:16:3316 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.153 ms - {}[39m
+[35m[39m
+2022-08-19 16:34:12:3412 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:34:12:3412 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:34:55:3455 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:34:55:3455 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:34:55:3455 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:34:55:3455 [32minfo[39m: [32m---[39m
+2022-08-19 16:34:56:3456 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:34:56:3456 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 686.440 ms - {}[39m
+[35m[39m
+2022-08-19 16:40:02:402 [37mdebug[39m: [37mread:voters create:voters update:voters delete:voters read:members create:members update:members delete:members[39m
+2022-08-19 16:40:02:402 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:40:07:407 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:40:07:407 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:40:07:407 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:40:07:407 [32minfo[39m: [32m---[39m
+2022-08-19 16:40:07:407 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:40:07:407 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 377.412 ms - {}[39m
+[35m[39m
+2022-08-19 16:43:37:4337 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:43:37:4337 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:43:37:4337 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:43:37:4337 [32minfo[39m: [32m---[39m
+2022-08-19 16:43:37:4337 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:43:37:4337 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.176 ms - {}[39m
+[35m[39m
+2022-08-19 16:46:07:467 [37mdebug[39m: [37mread:voters create:voters update:voters delete:voters read:members create:members update:members delete:members[39m
+2022-08-19 16:46:08:468 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:47:05:475 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:47:05:475 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:47:07:477 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:47:07:477 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:47:07:477 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:47:07:477 [32minfo[39m: [32m---[39m
+2022-08-19 16:47:08:478 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:47:08:478 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 782.928 ms - {}[39m
+[35m[39m
+2022-08-19 16:50:53:5053 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:50:53:5053 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:50:53:5053 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:50:53:5053 [32minfo[39m: [32m---[39m
+2022-08-19 16:50:53:5053 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:50:53:5053 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.246 ms - {}[39m
+[35m[39m
+2022-08-19 16:50:56:5056 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:50:56:5056 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:50:56:5056 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:50:56:5056 [32minfo[39m: [32m---[39m
+2022-08-19 16:50:56:5056 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:50:56:5056 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.483 ms - {}[39m
+[35m[39m
+2022-08-19 16:51:38:5138 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:51:38:5138 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:51:38:5138 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:51:38:5138 [32minfo[39m: [32m---[39m
+2022-08-19 16:51:38:5138 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:51:38:5138 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.921 ms - {}[39m
+[35m[39m
+2022-08-19 16:52:21:5221 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:52:21:5221 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:52:21:5221 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:52:21:5221 [32minfo[39m: [32m---[39m
+2022-08-19 16:52:21:5221 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:52:21:5221 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.138 ms - {}[39m
+[35m[39m
+2022-08-19 16:52:22:5222 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:52:22:5222 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:52:22:5222 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:52:22:5222 [32minfo[39m: [32m---[39m
+2022-08-19 16:52:22:5222 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:52:22:5222 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.640 ms - {}[39m
+[35m[39m
+2022-08-19 16:54:26:5426 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:54:26:5426 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:54:27:5427 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:54:27:5427 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:54:27:5427 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:54:27:5427 [32minfo[39m: [32m---[39m
+2022-08-19 16:54:28:5428 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:54:28:5428 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1318.972 ms - {}[39m
+[35m[39m
+2022-08-19 16:54:29:5429 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:54:29:5429 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:54:29:5429 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:54:29:5429 [32minfo[39m: [32m---[39m
+2022-08-19 16:54:29:5429 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:54:29:5429 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.508 ms - {}[39m
+[35m[39m
+2022-08-19 16:54:30:5430 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:54:30:5430 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:54:30:5430 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:54:30:5430 [32minfo[39m: [32m---[39m
+2022-08-19 16:54:30:5430 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 16:54:30:5430 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.838 ms - {}[39m
+[35m[39m
+2022-08-19 16:54:47:5447 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:54:47:5447 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:54:48:5448 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:54:48:5448 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:54:48:5448 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:54:48:5448 [32minfo[39m: [32m---[39m
+2022-08-19 16:54:48:5448 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 613.370 ms - {}[39m
+[35m[39m
+2022-08-19 16:54:51:5451 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:54:51:5451 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:54:51:5451 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:54:51:5451 [32minfo[39m: [32m---[39m
+2022-08-19 16:54:51:5451 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.496 ms - {}[39m
+[35m[39m
+2022-08-19 16:54:52:5452 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:54:52:5452 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:54:52:5452 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:54:52:5452 [32minfo[39m: [32m---[39m
+2022-08-19 16:54:52:5452 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.591 ms - {}[39m
+[35m[39m
+2022-08-19 16:55:01:551 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:55:01:551 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:55:01:551 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:55:01:551 [32minfo[39m: [32m---[39m
+2022-08-19 16:55:01:551 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.396 ms - {}[39m
+[35m[39m
+2022-08-19 16:55:19:5519 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:55:19:5519 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:55:19:5519 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:55:19:5519 [32minfo[39m: [32m---[39m
+2022-08-19 16:55:19:5519 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.948 ms - {}[39m
+[35m[39m
+2022-08-19 16:55:36:5536 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:55:36:5536 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:55:37:5537 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:55:37:5537 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:55:37:5537 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:55:37:5537 [32minfo[39m: [32m---[39m
+2022-08-19 16:55:37:5537 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 674.512 ms - {}[39m
+[35m[39m
+2022-08-19 16:55:38:5538 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:55:38:5538 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:55:38:5538 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:55:38:5538 [32minfo[39m: [32m---[39m
+2022-08-19 16:55:38:5538 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.200 ms - {}[39m
+[35m[39m
+2022-08-19 16:55:50:5550 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:55:50:5550 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:56:00:560 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:56:00:560 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:56:00:560 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:56:00:560 [32minfo[39m: [32m---[39m
+2022-08-19 16:56:02:562 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2031.921 ms - {}[39m
+[35m[39m
+2022-08-19 16:56:29:5629 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:56:29:5629 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:56:30:5630 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:56:30:5630 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:56:30:5630 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:56:30:5630 [32minfo[39m: [32m---[39m
+2022-08-19 16:56:32:5632 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1988.660 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:15:5715 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 16:57:15:5715 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 16:57:18:5718 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:18:5718 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:18:5718 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:18:5718 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:19:5719 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 803.905 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:20:5720 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:20:5720 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:20:5720 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:20:5720 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:20:5720 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.098 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:21:5721 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.582 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:21:5721 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.492 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:21:5721 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.585 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:21:5721 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:21:5721 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.381 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:22:5722 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.345 ms - {}[39m
+[35m[39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32mMethod:[39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32mPath:  [39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32mBody:  [39m
+2022-08-19 16:57:22:5722 [32minfo[39m: [32m---[39m
+2022-08-19 16:57:22:5722 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1.406 ms - {}[39m
+[35m[39m
+2022-08-19 17:05:25:525 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 17:05:26:526 [32minfo[39m: [32mMethod:[39m
+2022-08-19 17:05:26:526 [32minfo[39m: [32mPath:  [39m
+2022-08-19 17:05:26:526 [32minfo[39m: [32mBody:  [39m
+2022-08-19 17:05:26:526 [32minfo[39m: [32m---[39m
+2022-08-19 17:05:33:533 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 7437.035 ms - {}[39m
+[35m[39m
+2022-08-19 17:05:46:546 [32minfo[39m: [32mMethod:[39m
+2022-08-19 17:05:46:546 [32minfo[39m: [32mPath:  [39m
+2022-08-19 17:05:46:546 [32minfo[39m: [32mBody:  [39m
+2022-08-19 17:05:46:546 [32minfo[39m: [32m---[39m
+2022-08-19 17:05:46:546 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.501 ms - {}[39m
+[35m[39m
+2022-08-19 17:06:04:64 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 17:06:04:64 [32minfo[39m: [32mMethod:[39m
+2022-08-19 17:06:04:64 [32minfo[39m: [32mPath:  [39m
+2022-08-19 17:06:04:64 [32minfo[39m: [32mBody:  [39m
+2022-08-19 17:06:04:64 [32minfo[39m: [32m---[39m
+2022-08-19 17:06:09:69 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 4910.021 ms - {}[39m
+[35m[39m
+2022-08-19 17:06:42:642 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 17:06:48:648 [32minfo[39m: [32mMethod:[39m
+2022-08-19 17:06:48:648 [32minfo[39m: [32mPath:  [39m
+2022-08-19 17:06:48:648 [32minfo[39m: [32mBody:  [39m
+2022-08-19 17:06:48:648 [32minfo[39m: [32m---[39m
+2022-08-19 17:06:48:648 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 499.865 ms - {}[39m
+[35m[39m
+2022-08-19 17:07:40:740 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 17:07:40:740 [32minfo[39m: [32mMethod:[39m
+2022-08-19 17:07:40:740 [32minfo[39m: [32mPath:  [39m
+2022-08-19 17:07:40:740 [32minfo[39m: [32mBody:  [39m
+2022-08-19 17:07:40:740 [32minfo[39m: [32m---[39m
+2022-08-19 17:07:41:741 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 481.401 ms - {}[39m
+[35m[39m
+2022-08-19 17:10:31:1031 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 17:10:38:1038 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 17:10:40:1040 [32minfo[39m: [32mMethod:[39m
+2022-08-19 17:10:40:1040 [32minfo[39m: [32mPath:  [39m
+2022-08-19 17:10:40:1040 [32minfo[39m: [32mBody:  [39m
+2022-08-19 17:10:40:1040 [32minfo[39m: [32m---[39m
+2022-08-19 17:10:43:1043 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 3487.096 ms - {}[39m
+[35m[39m
+2022-08-19 18:49:22:4922 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 18:49:30:4930 [32minfo[39m: [32mMethod:[39m
+2022-08-19 18:49:30:4930 [32minfo[39m: [32mPath:  [39m
+2022-08-19 18:49:30:4930 [32minfo[39m: [32mBody:  [39m
+2022-08-19 18:49:30:4930 [32minfo[39m: [32m---[39m
+2022-08-19 18:49:30:4930 [31merror[39m: [31mgetaddrinfo ENOTFOUND pmp-app.eu.auth0.com[39m
+2022-08-19 18:49:30:4930 [35mhttp[39m: [35mGET /api/v1/voters 500 - - 28.501 ms - {}[39m
+[35m[39m
+2022-08-19 18:50:35:5035 [32minfo[39m: [32mMethod:[39m
+2022-08-19 18:50:35:5035 [32minfo[39m: [32mPath:  [39m
+2022-08-19 18:50:35:5035 [32minfo[39m: [32mBody:  [39m
+2022-08-19 18:50:35:5035 [32minfo[39m: [32m---[39m
+2022-08-19 18:50:37:5037 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 1829.053 ms - {}[39m
+[35m[39m
+2022-08-19 18:52:13:5213 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 18:52:23:5223 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 18:52:23:5223 [32minfo[39m: [32mMethod:[39m
+2022-08-19 18:52:23:5223 [32minfo[39m: [32mPath:  [39m
+2022-08-19 18:52:23:5223 [32minfo[39m: [32mBody:  [39m
+2022-08-19 18:52:23:5223 [32minfo[39m: [32m---[39m
+2022-08-19 18:52:24:5224 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 1649.433 ms - {}[39m
+[35m[39m
+2022-08-19 18:52:58:5258 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 18:52:58:5258 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 18:53:00:530 [32minfo[39m: [32mMethod:[39m
+2022-08-19 18:53:00:530 [32minfo[39m: [32mPath:  [39m
+2022-08-19 18:53:00:530 [32minfo[39m: [32mBody:  [39m
+2022-08-19 18:53:00:530 [32minfo[39m: [32m---[39m
+2022-08-19 18:53:00:530 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 522.042 ms - {}[39m
+[35m[39m
+2022-08-19 18:53:03:533 [32minfo[39m: [32mMethod:[39m
+2022-08-19 18:53:03:533 [32minfo[39m: [32mPath:  [39m
+2022-08-19 18:53:03:533 [32minfo[39m: [32mBody:  [39m
+2022-08-19 18:53:03:533 [32minfo[39m: [32m---[39m
+2022-08-19 18:53:03:533 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 8.352 ms - {}[39m
+[35m[39m
+2022-08-19 18:53:51:5351 [32minfo[39m: [32mMethod:[39m
+2022-08-19 18:53:51:5351 [32minfo[39m: [32mPath:  [39m
+2022-08-19 18:53:51:5351 [32minfo[39m: [32mBody:  [39m
+2022-08-19 18:53:51:5351 [32minfo[39m: [32m---[39m
+2022-08-19 18:53:51:5351 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 12.407 ms - {}[39m
+[35m[39m
+2022-08-19 19:01:39:139 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:01:39:139 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:01:39:139 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:01:39:139 [32minfo[39m: [32m---[39m
+2022-08-19 19:01:39:139 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 44.173 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:25:325 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:25:325 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:25:325 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:25:325 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:26:326 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 692.222 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:27:327 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:27:327 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:27:327 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:27:327 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:27:327 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 23.964 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:28:328 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 7.074 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:28:328 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 5.812 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:28:328 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 8.151 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:28:328 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 5.472 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:28:328 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:28:328 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 5.453 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:29:329 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:29:329 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:29:329 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:29:329 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:29:329 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 7.309 ms - {}[39m
+[35m[39m
+2022-08-19 19:03:52:352 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:03:52:352 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:03:52:352 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:03:52:352 [32minfo[39m: [32m---[39m
+2022-08-19 19:03:52:352 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 11.758 ms - {}[39m
+[35m[39m
+2022-08-19 19:04:12:412 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:04:12:412 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:04:12:412 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:04:12:412 [32minfo[39m: [32m---[39m
+2022-08-19 19:04:12:412 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:04:12:412 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.639 ms - {}[39m
+[35m[39m
+2022-08-19 19:04:32:432 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:04:32:432 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:04:32:432 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:04:32:432 [32minfo[39m: [32m---[39m
+2022-08-19 19:04:32:432 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:04:32:432 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.000 ms - {}[39m
+[35m[39m
+2022-08-19 19:05:25:525 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:05:25:525 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:05:25:525 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:05:25:525 [32minfo[39m: [32m---[39m
+2022-08-19 19:05:25:525 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 8.572 ms - {}[39m
+[35m[39m
+2022-08-19 19:06:26:626 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:06:26:626 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:06:26:626 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:06:26:626 [32minfo[39m: [32m---[39m
+2022-08-19 19:06:26:626 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:06:26:626 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.184 ms - {}[39m
+[35m[39m
+2022-08-19 19:09:33:933 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:09:34:934 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:09:34:934 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:09:34:934 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:09:34:934 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:09:34:934 [32minfo[39m: [32m---[39m
+2022-08-19 19:09:35:935 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:09:35:935 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 509.164 ms - {}[39m
+[35m[39m
+2022-08-19 19:10:10:1010 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:10:10:1010 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:10:14:1014 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:10:14:1014 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:10:14:1014 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:10:14:1014 [32minfo[39m: [32m---[39m
+2022-08-19 19:10:16:1016 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:10:16:1016 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1477.143 ms - {}[39m
+[35m[39m
+2022-08-19 19:11:32:1132 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:11:32:1132 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:11:32:1132 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:11:32:1132 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:11:32:1132 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:11:32:1132 [32minfo[39m: [32m---[39m
+2022-08-19 19:11:34:1134 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:11:34:1134 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1348.887 ms - {}[39m
+[35m[39m
+2022-08-19 19:11:52:1152 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:11:52:1152 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:12:25:1225 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:12:25:1225 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:12:27:1227 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:12:27:1227 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:12:27:1227 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:12:27:1227 [32minfo[39m: [32m---[39m
+2022-08-19 19:12:27:1227 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:12:27:1227 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 437.684 ms - {}[39m
+[35m[39m
+2022-08-19 19:12:48:1248 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:12:48:1248 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:12:51:1251 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:12:51:1251 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:12:51:1251 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:12:51:1251 [32minfo[39m: [32m---[39m
+2022-08-19 19:12:51:1251 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:12:51:1251 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 402.052 ms - {}[39m
+[35m[39m
+2022-08-19 19:13:02:132 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:13:02:132 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:13:02:132 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:13:02:132 [32minfo[39m: [32m---[39m
+2022-08-19 19:13:02:132 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:13:02:132 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 3.198 ms - {}[39m
+[35m[39m
+2022-08-19 19:13:35:1335 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:13:35:1335 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:15:17:1517 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:15:17:1517 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:15:18:1518 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:15:18:1518 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:15:18:1518 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:15:18:1518 [32minfo[39m: [32m---[39m
+2022-08-19 19:15:20:1520 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:15:20:1520 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1610.658 ms - {}[39m
+[35m[39m
+2022-08-19 19:15:21:1521 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:15:21:1521 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:15:21:1521 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:15:21:1521 [32minfo[39m: [32m---[39m
+2022-08-19 19:15:21:1521 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:15:21:1521 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 18.064 ms - {}[39m
+[35m[39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32m---[39m
+2022-08-19 19:15:22:1522 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:15:22:1522 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 17.198 ms - {}[39m
+[35m[39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:15:22:1522 [32minfo[39m: [32m---[39m
+2022-08-19 19:15:22:1522 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:15:22:1522 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 27.507 ms - {}[39m
+[35m[39m
+2022-08-19 19:15:57:1557 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:15:57:1557 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:15:59:1559 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:15:59:1559 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:15:59:1559 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:15:59:1559 [32minfo[39m: [32m---[39m
+2022-08-19 19:16:00:160 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:16:00:160 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 1616.948 ms - {}[39m
+[35m[39m
+2022-08-19 19:19:37:1937 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:19:37:1937 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:20:10:2010 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:20:10:2010 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:20:11:2011 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:20:11:2011 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:20:11:2011 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:20:11:2011 [32minfo[39m: [32m---[39m
+2022-08-19 19:20:11:2011 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:20:11:2011 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 406.610 ms - {}[39m
+[35m[39m
+2022-08-19 19:20:23:2023 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:20:23:2023 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:20:23:2023 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:20:23:2023 [32minfo[39m: [32m---[39m
+2022-08-19 19:20:23:2023 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:20:23:2023 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 2.626 ms - {}[39m
+[35m[39m
+2022-08-19 19:20:36:2036 [37mdebug[39m: [37mread:voters[39m
+2022-08-19 19:20:36:2036 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-19 19:20:36:2036 [32minfo[39m: [32mMethod:[39m
+2022-08-19 19:20:36:2036 [32minfo[39m: [32mPath:  [39m
+2022-08-19 19:20:36:2036 [32minfo[39m: [32mBody:  [39m
+2022-08-19 19:20:36:2036 [32minfo[39m: [32m---[39m
+2022-08-19 19:20:37:2037 [31merror[39m: [31mInsufficient scope[39m
+2022-08-19 19:20:37:2037 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 588.989 ms - {}[39m
+[35m[39m
+2022-08-20 03:04:56:456 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 03:04:56:456 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 05:58:46:5846 [32minfo[39m: [32mMethod:[39m
+2022-08-20 05:58:46:5846 [32minfo[39m: [32mPath:  [39m
+2022-08-20 05:58:46:5846 [32minfo[39m: [32mBody:  [39m
+2022-08-20 05:58:46:5846 [32minfo[39m: [32m---[39m
+2022-08-20 05:58:47:5847 [31merror[39m: [31mInsufficient scope[39m
+2022-08-20 05:58:47:5847 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 562.645 ms - {}[39m
+[35m[39m
+2022-08-20 05:58:49:5849 [32minfo[39m: [32mMethod:[39m
+2022-08-20 05:58:49:5849 [32minfo[39m: [32mPath:  [39m
+2022-08-20 05:58:49:5849 [32minfo[39m: [32mBody:  [39m
+2022-08-20 05:58:49:5849 [32minfo[39m: [32m---[39m
+2022-08-20 05:58:49:5849 [31merror[39m: [31mInsufficient scope[39m
+2022-08-20 05:58:49:5849 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 6.358 ms - {}[39m
+[35m[39m
+2022-08-20 05:59:53:5953 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 05:59:53:5953 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 05:59:54:5954 [32minfo[39m: [32mMethod:[39m
+2022-08-20 05:59:54:5954 [32minfo[39m: [32mPath:  [39m
+2022-08-20 05:59:54:5954 [32minfo[39m: [32mBody:  [39m
+2022-08-20 05:59:54:5954 [32minfo[39m: [32m---[39m
+2022-08-20 05:59:55:5955 [31merror[39m: [31mInsufficient scope[39m
+2022-08-20 05:59:55:5955 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 450.396 ms - {}[39m
+[35m[39m
+2022-08-20 06:00:30:030 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:00:31:031 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:00:43:043 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:00:43:043 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:00:44:044 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:00:44:044 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:00:44:044 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:00:44:044 [32minfo[39m: [32m---[39m
+2022-08-20 06:00:44:044 [31merror[39m: [31mInsufficient scope[39m
+2022-08-20 06:00:44:044 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 371.153 ms - {}[39m
+[35m[39m
+2022-08-20 06:00:55:055 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:00:55:055 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:00:55:055 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:00:55:055 [32minfo[39m: [32m---[39m
+2022-08-20 06:00:55:055 [31merror[39m: [31mInsufficient scope[39m
+2022-08-20 06:00:55:055 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 4.799 ms - {}[39m
+[35m[39m
+2022-08-20 06:01:38:138 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:01:39:139 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:01:40:140 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:01:40:140 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:01:40:140 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:01:40:140 [32minfo[39m: [32m---[39m
+2022-08-20 06:01:40:140 [31merror[39m: [31merror[39m
+2022-08-20 06:01:40:140 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 760.509 ms - {}[39m
+[35m[39m
+2022-08-20 06:03:02:32 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:03:02:32 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:03:03:33 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:03:03:33 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:03:03:33 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:03:03:33 [32minfo[39m: [32m---[39m
+2022-08-20 06:03:03:33 [31merror[39m: [31mInsufficient scope[39m
+2022-08-20 06:03:03:33 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 457.022 ms - {}[39m
+[35m[39m
+2022-08-20 06:03:16:316 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:03:16:316 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:03:18:318 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:03:18:318 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:03:18:318 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:03:18:318 [32minfo[39m: [32m---[39m
+2022-08-20 06:03:18:318 [31merror[39m: [31merror[39m
+2022-08-20 06:03:18:318 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 210.771 ms - {}[39m
+[35m[39m
+2022-08-20 06:03:51:351 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:03:52:352 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:03:54:354 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:03:54:354 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:03:54:354 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:03:54:354 [32minfo[39m: [32m---[39m
+2022-08-20 06:03:54:354 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 411.974 ms - {}[39m
+[35m[39m
+2022-08-20 06:04:19:419 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:04:20:420 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:04:38:438 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:04:38:438 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:04:39:439 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:04:39:439 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:04:39:439 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:04:39:439 [32minfo[39m: [32m---[39m
+2022-08-20 06:04:39:439 [35mhttp[39m: [35mGET /api/v1/voters 403 - - 380.874 ms - {}[39m
+[35m[39m
+2022-08-20 06:05:29:529 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:05:29:529 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:05:29:529 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:05:29:529 [32minfo[39m: [32m---[39m
+2022-08-20 06:05:29:529 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 385.470 ms - {}[39m
+[35m[39m
+2022-08-20 06:06:00:60 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:06:00:60 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:06:02:62 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:06:02:62 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:06:02:62 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:06:02:62 [32minfo[39m: [32m---[39m
+2022-08-20 06:06:03:63 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 847.151 ms - {}[39m
+[35m[39m
+2022-08-20 06:06:37:637 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:06:37:637 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:07:05:75 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:07:05:75 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:07:05:75 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:07:28:728 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:07:28:728 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:07:28:728 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:07:28:728 [32minfo[39m: [32m---[39m
+2022-08-20 06:07:29:729 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 496.626 ms - {}[39m
+[35m[39m
+2022-08-20 06:07:35:735 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:07:35:735 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:07:35:735 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:07:35:735 [32minfo[39m: [32m---[39m
+2022-08-20 06:07:35:735 [35mhttp[39m: [35mGET /api/v1/voters/1395002064 200 - - 52.527 ms - {}[39m
+[35m[39m
+2022-08-20 06:08:26:826 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:08:26:826 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:08:26:826 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:08:26:826 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:09:21:921 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:09:21:921 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:09:21:921 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:09:21:921 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:09:21:921 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:09:21:921 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:14:10:1410 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:14:10:1410 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:14:10:1410 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:14:10:1410 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:14:10:1410 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:14:11:1411 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:16:43:1643 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:16:43:1643 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:16:43:1643 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:16:43:1643 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:16:43:1643 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:16:43:1643 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:20:22:2022 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:20:22:2022 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:20:22:2022 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:20:22:2022 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:20:22:2022 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:20:22:2022 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:21:08:218 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:21:08:218 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:21:08:218 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:21:08:218 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:21:08:218 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:21:08:218 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:23:52:2352 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:23:52:2352 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:23:52:2352 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:23:52:2352 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:23:52:2352 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:23:52:2352 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:25:39:2539 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:25:39:2539 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:25:39:2539 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:25:39:2539 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:25:39:2539 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:25:39:2539 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:25:54:2554 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:25:54:2554 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:25:54:2554 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:25:54:2554 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:25:54:2554 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:25:54:2554 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:27:51:2751 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:27:51:2751 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:27:51:2751 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:27:51:2751 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:27:51:2751 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:27:51:2751 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:29:58:2958 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:29:59:2959 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:29:59:2959 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:29:59:2959 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:29:59:2959 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:29:59:2959 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:29:59:2959 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:30:46:3046 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:30:46:3046 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:30:46:3046 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:30:46:3046 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:30:46:3046 [37mdebug[39m: [37mdelete:constituencies[39m
+2022-08-20 06:30:47:3047 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:30:47:3047 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:30:47:3047 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:30:47:3047 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:30:47:3047 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:30:47:3047 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:31:42:3142 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:31:42:3142 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:31:42:3142 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:31:42:3142 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:31:42:3142 [37mdebug[39m: [37mdelete:constituencies[39m
+2022-08-20 06:31:42:3142 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 06:31:43:3143 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:31:43:3143 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:31:43:3143 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:31:43:3143 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:31:43:3143 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:31:43:3143 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mdelete:constituencies[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mdelete:countries[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:32:14:3214 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mdelete:constituencies[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mdelete:countries[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:pollingStations[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:pollingStations[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:pollingStations[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:pollingStations[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mdelete:pollingStations[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:33:12:3312 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:33:13:3313 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:34:30:3430 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:34:30:3430 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 06:34:30:3430 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:34:30:3430 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 06:34:30:3430 [37mdebug[39m: [37mdelete:constituencies[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mdelete:countries[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:pollingStations[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:pollingStations[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:pollingStations[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:pollingStations[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mdelete:pollingStations[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:regions[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:regions[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:regions[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:regions[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mdelete:regions[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 06:34:31:3431 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 06:35:03:353 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:35:03:353 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:35:03:353 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:35:03:353 [32minfo[39m: [32m---[39m
+2022-08-20 06:35:03:353 [35mhttp[39m: [35mGET /api/v1/countries 403 - - 503.009 ms - {}[39m
+[35m[39m
+2022-08-20 06:44:31:4431 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:44:31:4431 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:44:31:4431 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:44:31:4431 [32minfo[39m: [32m---[39m
+2022-08-20 06:44:31:4431 [35mhttp[39m: [35mGET /api/v1/countries 403 - - 3.772 ms - {}[39m
+[35m[39m
+2022-08-20 06:44:33:4433 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:44:33:4433 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:44:33:4433 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:44:33:4433 [32minfo[39m: [32m---[39m
+2022-08-20 06:44:33:4433 [35mhttp[39m: [35mGET /api/v1/countries 403 - - 2.987 ms - {}[39m
+[35m[39m
+2022-08-20 06:44:59:4459 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:44:59:4459 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:44:59:4459 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:44:59:4459 [32minfo[39m: [32m---[39m
+2022-08-20 06:45:00:450 [35mhttp[39m: [35mGET /api/v1/countries 200 - - 159.036 ms - {}[39m
+[35m[39m
+2022-08-20 06:45:06:456 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:45:06:456 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:45:06:456 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:45:06:456 [32minfo[39m: [32m---[39m
+2022-08-20 06:45:07:457 [35mhttp[39m: [35mGET /api/v1/regions 200 - - 766.523 ms - {}[39m
+[35m[39m
+2022-08-20 06:45:15:4515 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:45:15:4515 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:45:15:4515 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:45:15:4515 [32minfo[39m: [32m---[39m
+2022-08-20 06:45:15:4515 [35mhttp[39m: [35mGET /api/v1/countries 200 - - 16.075 ms - {}[39m
+[35m[39m
+2022-08-20 06:45:30:4530 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:45:30:4530 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:45:30:4530 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:45:30:4530 [32minfo[39m: [32m---[39m
+2022-08-20 06:45:30:4530 [35mhttp[39m: [35mGET /api/v1/constituencies 403 - - 3.030 ms - {}[39m
+[35m[39m
+2022-08-20 06:45:31:4531 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:45:31:4531 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:45:31:4531 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:45:31:4531 [32minfo[39m: [32m---[39m
+2022-08-20 06:45:31:4531 [35mhttp[39m: [35mGET /api/v1/constituencies 403 - - 4.341 ms - {}[39m
+[35m[39m
+2022-08-20 06:49:17:4917 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:49:17:4917 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:49:17:4917 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:49:17:4917 [32minfo[39m: [32m---[39m
+2022-08-20 06:49:17:4917 [35mhttp[39m: [35mGET /api/v1/constituencies 200 - - 26.586 ms - {}[39m
+[35m[39m
+2022-08-20 06:49:24:4924 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:49:24:4924 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:49:24:4924 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:49:24:4924 [32minfo[39m: [32m---[39m
+2022-08-20 06:49:24:4924 [35mhttp[39m: [35mGET /api/v1/regions 200 - - 9.865 ms - {}[39m
+[35m[39m
+2022-08-20 06:49:31:4931 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:49:31:4931 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:49:31:4931 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:49:31:4931 [32minfo[39m: [32m---[39m
+2022-08-20 06:49:31:4931 [35mhttp[39m: [35mGET /api/v1/countries 200 - - 8.329 ms - {}[39m
+[35m[39m
+2022-08-20 06:49:39:4939 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:49:39:4939 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:49:39:4939 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:49:39:4939 [32minfo[39m: [32m---[39m
+2022-08-20 06:49:39:4939 [35mhttp[39m: [35mGET /api/v1/pollingStationss 404 - - 2.319 ms - {}[39m
+[35m[39m
+2022-08-20 06:49:43:4943 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:49:43:4943 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:49:43:4943 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:49:43:4943 [32minfo[39m: [32m---[39m
+2022-08-20 06:49:43:4943 [35mhttp[39m: [35mGET /api/v1/pollingStations 200 - - 30.558 ms - {}[39m
+[35m[39m
+2022-08-20 06:51:18:5118 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:51:18:5118 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:51:18:5118 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:51:18:5118 [32minfo[39m: [32m---[39m
+2022-08-20 06:51:18:5118 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 111.538 ms - {}[39m
+[35m[39m
+2022-08-20 06:52:45:5245 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:52:45:5245 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:52:45:5245 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:52:45:5245 [32minfo[39m: [32m---[39m
+2022-08-20 06:52:45:5245 [35mhttp[39m: [35mGET /api/v1/voters/1395002064 200 - - 20.220 ms - {}[39m
+[35m[39m
+2022-08-20 06:52:48:5248 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:52:48:5248 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:52:48:5248 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:52:48:5248 [32minfo[39m: [32m---[39m
+2022-08-20 06:52:48:5248 [35mhttp[39m: [35mGET /api/v1/voters/13950020645 404 - - 10.970 ms - {}[39m
+[35m[39m
+2022-08-20 06:54:02:542 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:54:02:542 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:54:02:542 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:54:02:542 [32minfo[39m: [32m---[39m
+2022-08-20 06:54:02:542 [35mhttp[39m: [35mGET /api/v1/pollingStations 200 - - 17.568 ms - {}[39m
+[35m[39m
+2022-08-20 06:54:08:548 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:54:08:548 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:54:08:548 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:54:08:548 [32minfo[39m: [32m---[39m
+2022-08-20 06:54:08:548 [35mhttp[39m: [35mGET /api/v1/pollingStations/F2601SPS 200 - - 18.681 ms - {}[39m
+[35m[39m
+2022-08-20 06:54:13:5413 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:54:13:5413 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:54:13:5413 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:54:13:5413 [32minfo[39m: [32m---[39m
+2022-08-20 06:54:13:5413 [35mhttp[39m: [35mGET /api/v1/pollingStations/F2601SPSS 404 - - 11.495 ms - {}[39m
+[35m[39m
+2022-08-20 06:55:25:5525 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:55:25:5525 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:55:25:5525 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:55:25:5525 [32minfo[39m: [32m---[39m
+2022-08-20 06:55:26:5526 [35mhttp[39m: [35mGET /api/v1/voters 200 - - 788.792 ms - {}[39m
+[35m[39m
+2022-08-20 06:55:52:5552 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:55:52:5552 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:55:52:5552 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:55:52:5552 [32minfo[39m: [32m---[39m
+2022-08-20 06:55:52:5552 [35mhttp[39m: [35mPOST /api/v1/voters 201 - - 45.108 ms application/json {"id":"1395002064","countryId":"GH","regionId":"F","districtId":"ASOKORE MAMPONG","constituencyId":"26","pollingStationId":"F2601SPS","electoralAreaId":"01","firstName":"WUTISMAN","lastName":"ACHAMAA JOSEPH","sex":"Male","age":33,"photo":"F2601SPS_11_9.png","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 06:56:36:5636 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:56:36:5636 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:56:36:5636 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:56:36:5636 [32minfo[39m: [32m---[39m
+2022-08-20 06:56:36:5636 [35mhttp[39m: [35mPOST /api/v1/voters 201 - - 72.171 ms application/json {"id":"1395002067","countryId":"GH","regionId":"F","districtId":"ASOKORE MAMPONG","constituencyId":"26","pollingStationId":"F2601SPS","electoralAreaId":"01","firstName":"WUTISMAN","lastName":"ACHAMAA JOSEPH","sex":"Male","age":33,"photo":"F2601SPS_11_9.png","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 06:56:57:5657 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:56:57:5657 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:56:57:5657 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:56:57:5657 [32minfo[39m: [32m---[39m
+2022-08-20 06:56:57:5657 [35mhttp[39m: [35mPOST /api/v1/pollingStationss 404 - - 1.996 ms application/json {"id":"1395002067","countryId":"GH","regionId":"F","districtId":"ASOKORE MAMPONG","constituencyId":"26","pollingStationId":"F2601SPS","electoralAreaId":"01","firstName":"WUTISMAN","lastName":"ACHAMAA JOSEPH","sex":"Male","age":33,"photo":"F2601SPS_11_9.png","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 06:57:03:573 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:57:03:573 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:57:03:573 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:57:03:573 [32minfo[39m: [32m---[39m
+2022-08-20 06:57:03:573 [35mhttp[39m: [35mPOST /api/v1/pollingStations 400 - - 5.470 ms application/json {"id":"1395002067","countryId":"GH","regionId":"F","districtId":"ASOKORE MAMPONG","constituencyId":"26","pollingStationId":"F2601SPS","electoralAreaId":"01","firstName":"WUTISMAN","lastName":"ACHAMAA JOSEPH","sex":"Male","age":33,"photo":"F2601SPS_11_9.png","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 06:57:14:5714 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:57:14:5714 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:57:14:5714 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:57:14:5714 [32minfo[39m: [32m---[39m
+2022-08-20 06:57:14:5714 [35mhttp[39m: [35mGET /api/v1/pollingStations 200 - - 10.915 ms application/json {}[39m
+[35m[39m
+2022-08-20 06:57:33:5733 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:57:33:5733 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:57:33:5733 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:57:33:5733 [32minfo[39m: [32m---[39m
+2022-08-20 06:57:33:5733 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 - - 20.168 ms application/json {"id":"F2601SPS","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 06:58:25:5825 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:58:25:5825 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:58:25:5825 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:58:25:5825 [32minfo[39m: [32m---[39m
+2022-08-20 06:58:25:5825 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 - - 24.153 ms application/json {"id":"F2601SPSS","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 06:58:43:5843 [32minfo[39m: [32mMethod:[39m
+2022-08-20 06:58:43:5843 [32minfo[39m: [32mPath:  [39m
+2022-08-20 06:58:43:5843 [32minfo[39m: [32mBody:  [39m
+2022-08-20 06:58:43:5843 [32minfo[39m: [32m---[39m
+2022-08-20 06:58:43:5843 [35mhttp[39m: [35mPOST /api/v1/pollingStations 201 - - 18.850 ms application/json {"id":"F2601SPSSJ","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 07:01:59:159 [32minfo[39m: [32mMethod:[39m
+2022-08-20 07:01:59:159 [32minfo[39m: [32mPath:  [39m
+2022-08-20 07:01:59:159 [32minfo[39m: [32mBody:  [39m
+2022-08-20 07:01:59:159 [32minfo[39m: [32m---[39m
+2022-08-20 07:01:59:159 [35mhttp[39m: [35mPOST /api/v1/pollingStations/F2601SPS 400 - - 41.753 ms application/json {"id":"F2601SPS","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 07:03:23:323 [32minfo[39m: [32mMethod:[39m
+2022-08-20 07:03:23:323 [32minfo[39m: [32mPath:  [39m
+2022-08-20 07:03:23:323 [32minfo[39m: [32mBody:  [39m
+2022-08-20 07:03:23:323 [32minfo[39m: [32m---[39m
+2022-08-20 07:03:23:323 [35mhttp[39m: [35mPOST /api/v1/pollingStations/F2601SPS 400 - - 2.381 ms application/json {"id":"F2601SPSS","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:constituencies[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mcreate:constituencies[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mdelete:constituencies[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:countries[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mcreate:countries[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mdelete:countries[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:pollingStations[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:pollingStations[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mcreate:pollingStations[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mcreate:pollingStations[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mdelete:pollingStations[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:regions[39m
+2022-08-20 07:05:52:552 [37mdebug[39m: [37mread:regions[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mcreate:regions[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mcreate:regions[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mdelete:regions[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mread:voters[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mcreate:voters[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mdelete:voters[39m
+2022-08-20 07:05:53:553 [37mdebug[39m: [37mServer is up and running @ http://localhost:4000[39m
+2022-08-20 07:08:18:818 [32minfo[39m: [32mMethod:[39m
+2022-08-20 07:08:18:818 [32minfo[39m: [32mPath:  [39m
+2022-08-20 07:08:18:818 [32minfo[39m: [32mBody:  [39m
+2022-08-20 07:08:18:818 [32minfo[39m: [32m---[39m
+2022-08-20 07:08:18:818 [35mhttp[39m: [35mPOST /api/v1/pollingStations/F2601SPSS 500 - - 93.002 ms application/json {"id":"F2601SPSS","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 07:10:19:1019 [32minfo[39m: [32mMethod:[39m
+2022-08-20 07:10:19:1019 [32minfo[39m: [32mPath:  [39m
+2022-08-20 07:10:19:1019 [32minfo[39m: [32mBody:  [39m
+2022-08-20 07:10:19:1019 [32minfo[39m: [32m---[39m
+2022-08-20 07:10:19:1019 [35mhttp[39m: [35mPOST /api/v1/pollingStations/F2601SPSS 500 - - 7.323 ms application/json {"id":"F2601SPSS","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 07:10:22:1022 [32minfo[39m: [32mMethod:[39m
+2022-08-20 07:10:22:1022 [32minfo[39m: [32mPath:  [39m
+2022-08-20 07:10:22:1022 [32minfo[39m: [32mBody:  [39m
+2022-08-20 07:10:22:1022 [32minfo[39m: [32m---[39m
+2022-08-20 15:47:17:4717 [35mhttp[39m: [35mPOST /api/v1/pollingStations/F2601SPSS 400 - - 4244.417 ms application/json {"id":"F2601SPSS","title":"PARKOSO POLICE STATION","active":true,"battleGround":false,"constituencyId":"26","period":"DECEMBER 2020"}[39m
+[35m[39m
+2022-08-20 15:47:49:4749 [32minfo[39m: [32mMethod:[39m
+2022-08-20 15:47:49:4749 [32minfo[39m: [32mPath:  [39m
+2022-08-20 15:47:49:4749 [32minfo[39m: [32mBody:  [39m
+2022-08-20 15:47:49:4749 [32minfo[39m: [32m---[39m
+2022-08-20 15:47:49:4749 [35mhttp[39m: [35mGET /api/v1/pollingStations/F2601SPSS 404 - - 53.290 ms application/json {}[39m
+[35m[39m
+2022-08-20 15:47:56:4756 [32minfo[39m: [32mMethod:[39m
+2022-08-20 15:47:56:4756 [32minfo[39m: [32mPath:  [39m
+2022-08-20 15:47:56:4756 [32minfo[39m: [32mBody:  [39m
+2022-08-20 15:47:56:4756 [32minfo[39m: [32m---[39m
+2022-08-20 15:47:56:4756 [35mhttp[39m: [35mGET /api/v1/pollingStations/F2601SPS 200 - - 19.223 ms application/json {}[39m
+[35m[39m

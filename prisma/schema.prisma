@@ -1,0 +1,125 @@
+generator client {
+  provider        = "prisma-client-js"
+  previewFeatures = ["fullTextSearch"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Voter {
+  id               String         @id
+  countryId        String         @default("GH")
+  regionId         String
+  districtId       String
+  constituencyId   String
+  electoralAreaId  String
+  pollingStationId String
+  firstName        String
+  lastName         String
+  sex              Sex
+  age              Int
+  period           String
+  photo            String
+  constituency     Constituency   @relation(fields: [constituencyId], references: [id])
+  country          Country        @relation(fields: [countryId], references: [id])
+  pollingStation   PollingStation @relation(fields: [pollingStationId], references: [id])
+  region           Region         @relation(fields: [regionId], references: [id])
+  member           Member?
+  createdAt        DateTime       @default(now()) @db.Timestamp(6)
+  updatedAt        DateTime       @updatedAt
+}
+
+model Member {
+  id             String    @id
+  partyId        String
+  voterId        String    @unique
+  email          String    @unique @db.VarChar(255)
+  primaryPhone   String    @unique @db.VarChar(255)
+  secondaryPhone String    @unique @db.VarChar(255)
+  dob            String
+  positionId     String
+  religionId     String
+  educationId    String
+  status         String
+  remarks        String
+  createdAt      DateTime  @default(now()) @db.Timestamp(6)
+  education      Education @relation(fields: [educationId], references: [id])
+  party          Party     @relation(fields: [partyId], references: [id])
+  position       Position  @relation(fields: [positionId], references: [id])
+  religion       Religion  @relation(fields: [religionId], references: [id])
+  voter          Voter     @relation(fields: [voterId], references: [id])
+}
+
+model Party {
+  id      String     @id
+  title   String     @unique
+  active  Boolean    @default(false)
+  members Member[]
+}
+
+model Position {
+  id     String      @id
+  title  String      @unique
+  active Boolean     @default(false)
+  members Member[]
+}
+
+model Religion {
+  id     String      @id
+  title  String      @unique
+  active Boolean     @default(false)
+  members Member[]
+}
+
+model Education {
+  id      String     @id
+  title   String     @unique
+  active  Boolean    @default(false)
+  members Member[]
+}
+
+model Country {
+  id      String      @id
+  title   String      @unique
+  active  Boolean     @default(false)
+  regions Region[]
+  voters  Voter[]
+}
+
+model Region {
+  id           String     @id
+  title        String     @unique
+  active       Boolean    @default(false)
+  battleGround Boolean    @default(false)
+  countryId    String
+  country      Country    @relation(fields: [countryId], references: [id])
+  voters       Voter[]
+}
+
+model Constituency {
+  id              String           @id
+  title           String           @unique
+  active          Boolean          @default(false)
+  battleGround    Boolean          @default(false)
+  districtId      String
+  pollingStations PollingStation[]
+  voters          Voter[]
+}
+
+model PollingStation {
+  id              String       @id
+  title           String       @unique
+  active          Boolean      @default(false)
+  battleGround    Boolean      @default(false)
+  constituencyId  String
+  period          String       @default("")
+  constituency    Constituency @relation(fields: [constituencyId], references: [id])
+  voters          Voter[]
+}
+
+enum Sex {
+  Male
+  Female
+}

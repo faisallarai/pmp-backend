@@ -1,0 +1,103 @@
+import { VoterEntry } from '../src/types';
+import toNewVoterEntry from '../src/utils/toNewVoterEntry';
+
+const data = [
+  {
+    id: '1395002064',
+    countryId: 'GH',
+    regionId: 'F',
+    districtId: 'ASOKORE MAMPONG',
+    constituencyId: '26',
+    pollingStationId: 'F2601SPS',
+    electoralAreaId: '01',
+    firstName: 'WUTISMAN',
+    lastName: 'ACHAMAA JOSEPH',
+    sex: 'Male',
+    age: 33,
+    photo: 'F2601SPS_11_9.png',
+    period: 'DECEMBER 2020',
+  },
+  {
+    id: '1395021072',
+    countryId: 'GH',
+    regionId: 'F',
+    districtId: 'ASOKORE MAMPONG',
+    constituencyId: '26',
+    pollingStationId: 'F2601SPS',
+    electoralAreaId: '01',
+    firstName: 'YAHAYA',
+    lastName: 'MARTIN',
+    sex: 'Male',
+    age: 39,
+    photo: 'F2601SPS_11_10.png',
+    period: 'DECEMBER 2020',
+  },
+  {
+    id: '1399015481',
+    countryId: 'GH',
+    regionId: 'F',
+    districtId: 'ASOKORE MAMPONG',
+    constituencyId: '26',
+    pollingStationId: 'F2601SPS',
+    electoralAreaId: '01',
+    firstName: 'YAHAYA',
+    lastName: 'TAHIRU',
+    sex: 'Male',
+    age: 36,
+    photo: 'F2601SPS_11_11.png',
+    period: 'DECEMBER 2020',
+  },
+  {
+    id: '1396003161',
+    countryId: 'GH',
+    regionId: 'F',
+    districtId: 'ASOKORE MAMPONG',
+    constituencyId: '26',
+    pollingStationId: 'F2601SPS',
+    electoralAreaId: '01',
+    firstName: 'YAKUB',
+    lastName: 'FAUZIA',
+    sex: 'Female',
+    age: 30,
+    photo: 'F2601SPS_11_12.png',
+    period: 'DECEMBER 2020',
+  },
+  {
+    id: '1390029899',
+    countryId: 'GH',
+    regionId: 'F',
+    districtId: 'ASOKORE MAMPONG',
+    constituencyId: '26',
+    pollingStationId: 'F2601SPS',
+    electoralAreaId: '01',
+    firstName: 'YANKYERA',
+    lastName: 'DICKSON',
+    sex: 'Male',
+    age: 34,
+    photo: 'F2601SPS_11_13.png',
+    period: 'DECEMBER 2020',
+  },
+  {
+    id: '1395026509',
+    countryId: 'GH',
+    regionId: 'F',
+    districtId: 'ASOKORE MAMPONG',
+    constituencyId: '26',
+    pollingStationId: 'F2601SPS',
+    electoralAreaId: '01',
+    firstName: 'YANKYERAH',
+    lastName: 'BERNARD',
+    sex: 'Male',
+    age: 29,
+    photo: 'F2601SPS_12_2.png',
+    period: 'DECEMBER 2020',
+  },
+];
+
+const voterEntries: VoterEntry[] = data.map((obj) => {
+  const object = toNewVoterEntry(obj) as VoterEntry;
+  object.id = obj.id;
+  return object;
+});
+
+export default voterEntries;
